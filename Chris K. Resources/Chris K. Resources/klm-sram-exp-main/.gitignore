@@ -1,0 +1,8 @@
+*.lck
+SRAM_exp-backups*
+one2eight_twoPole-backups*
+RTM_5V_supply-backups*
+*.zip
+fp-info-cache
+fp-lib-table
+sym-lib-table
