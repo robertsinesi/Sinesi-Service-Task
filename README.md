@@ -1,4 +1,4 @@
-# KLM SRAM Expansion — Qualification Task
+# KLM SRAM Expansion — Service Task
 
 Belle II KLM service work · Instrumentation Development Lab, University of Hawai'i at Mānoa
 
