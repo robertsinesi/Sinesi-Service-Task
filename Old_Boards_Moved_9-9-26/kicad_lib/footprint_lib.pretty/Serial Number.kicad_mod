@@ -1,0 +1,84 @@
+(footprint "Serial Number"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "07fb0396-1416-4475-8bd7-2954ec3e4eb3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Serial Number"
+		(at -1.905 3.81 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b471c0e8-4867-415f-a0c0-28bfbc571394")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ffbc524e-3883-43f6-b7a2-80d1e5c880a6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "93edade9-9b3b-4567-8fb9-c65a6f175624")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd board_only exclude_from_bom)
+	(fp_poly
+		(pts
+			(xy 0 3) (xy 10 3) (xy 10 -3) (xy 0 -3)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "c3217cad-1d02-4969-9b47-9d0e38363ade")
+	)
+	(fp_text user "#W4MB4MB"
+		(at -17.145 1.27 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8df13243-10d2-447f-bc25-e0733af0065f")
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.2)
+			)
+			(justify left bottom)
+		)
+	)
+	(embedded_fonts no)
+)
