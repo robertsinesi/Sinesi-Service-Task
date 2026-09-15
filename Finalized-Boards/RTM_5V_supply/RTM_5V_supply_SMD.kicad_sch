@@ -5124,28 +5124,22 @@
 		)
 	)
 	(junction
+		(at 179.07 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "09ad44ef-d0f2-4def-a3cf-d5dc410332ac")
+	)
+	(junction
 		(at 185.42 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "284fb5e3-9d51-426c-842e-1f8afcbe4f91")
 	)
 	(junction
-		(at 236.22 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2d9817e0-0883-4688-b856-54fe422c00e9")
-	)
-	(junction
-		(at 236.22 45.72)
+		(at 194.31 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "342877c2-012f-46c3-8194-8a1952ec69e2")
-	)
-	(junction
-		(at 220.98 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "39db6d7e-82f8-4f20-88a4-735e84406459")
 	)
 	(junction
 		(at 170.18 76.2)
@@ -5154,22 +5148,28 @@
 		(uuid "3a68529c-5f39-49b4-bf02-392ac5c88e97")
 	)
 	(junction
-		(at 185.42 36.83)
+		(at 185.42 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d1b4b8b-e7c9-4961-82ed-6ffcdcb9bb9d")
+	)
+	(junction
+		(at 185.42 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ab31db9a-dcf7-4836-bf4e-c625a21f5d3d")
 	)
 	(junction
-		(at 228.6 45.72)
+		(at 185.42 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b73570a1-ae30-49b4-8a21-4519129c8dbd")
+		(uuid "c1b3d402-76c3-49e2-88f4-42466c182340")
 	)
 	(junction
-		(at 228.6 33.02)
+		(at 186.69 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "bff71510-0908-4bff-90de-d551b89a220f")
+		(uuid "c76af81c-d3dc-4064-bad8-c03879da4dd8")
 	)
 	(junction
 		(at 170.18 50.8)
@@ -5178,13 +5178,19 @@
 		(uuid "d2e19d89-561e-4edd-bb48-0f7fb9511c47")
 	)
 	(junction
+		(at 185.42 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "de5891a3-088c-42e4-97f2-96efe544288f")
+	)
+	(junction
 		(at 185.42 22.86)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dffd2419-cb14-43dd-a2ca-50edafbd3fff")
 	)
 	(junction
-		(at 185.42 33.02)
+		(at 185.42 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e90c7431-8638-4976-902e-16ea1ef4a81a")
@@ -5196,16 +5202,10 @@
 		(uuid "eb7ff481-56ed-4705-ac45-a77b51171bf8")
 	)
 	(junction
-		(at 220.98 45.72)
+		(at 170.18 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "eb989bb8-7604-4b1e-a639-1d8767e4a7a7")
-	)
-	(junction
-		(at 214.63 33.02)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ebd5a278-5b1a-478e-9473-3a785165279d")
+		(uuid "fb76ce17-fc96-474d-a54d-42618b5c1cae")
 	)
 	(no_connect
 		(at 158.75 43.18)
@@ -5565,6 +5565,26 @@
 	)
 	(wire
 		(pts
+			(xy 185.42 30.48) (xy 185.42 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "038a772a-bc2f-4ccb-83ae-fe2df3a3812e")
+	)
+	(wire
+		(pts
+			(xy 185.42 60.96) (xy 195.58 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04ded4cf-3176-45dc-9d52-e5e5b1a35f3e")
+	)
+	(wire
+		(pts
 			(xy 158.75 25.4) (xy 170.18 25.4)
 		)
 		(stroke
@@ -5575,47 +5595,17 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 45.72) (xy 243.84 45.72)
+			(xy 190.5 76.2) (xy 190.5 78.74)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "15bec503-149d-4c25-a975-7c6283a0660d")
+		(uuid "1eacc6fd-f915-48d3-8976-7ba7e1173aaf")
 	)
 	(wire
 		(pts
-			(xy 185.42 36.83) (xy 185.42 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "198f973a-10ee-46ec-86cd-86e7dcd3e00f")
-	)
-	(wire
-		(pts
-			(xy 214.63 22.86) (xy 214.63 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2499849a-a94c-4050-81ef-3369fa615bdb")
-	)
-	(wire
-		(pts
-			(xy 236.22 33.02) (xy 243.84 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2d5fb3ff-3e6d-4361-b109-77252b04e7f6")
-	)
-	(wire
-		(pts
-			(xy 190.5 44.45) (xy 190.5 48.26)
+			(xy 190.5 86.36) (xy 190.5 90.17)
 		)
 		(stroke
 			(width 0)
@@ -5645,13 +5635,13 @@
 	)
 	(wire
 		(pts
-			(xy 204.47 33.02) (xy 214.63 33.02)
+			(xy 203.2 50.8) (xy 213.36 50.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3c9ed3df-675b-48e5-ad43-afc3b6c86ffb")
+		(uuid "45838de6-dd34-4659-8335-e1d21f0178ce")
 	)
 	(wire
 		(pts
@@ -5665,13 +5655,13 @@
 	)
 	(wire
 		(pts
-			(xy 214.63 33.02) (xy 220.98 33.02)
+			(xy 194.31 116.84) (xy 201.93 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "646608b9-dce5-4d07-8807-86ea157aa6a9")
+		(uuid "5e6e3608-97dc-4c57-949f-481d9edb5790")
 	)
 	(wire
 		(pts
@@ -5682,6 +5672,16 @@
 			(type default)
 		)
 		(uuid "66b8b3cb-1aba-4c8e-be85-da741b275dc6")
+	)
+	(wire
+		(pts
+			(xy 185.42 50.8) (xy 195.58 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "674b369d-9fac-49ca-b138-0912eb559b02")
 	)
 	(wire
 		(pts
@@ -5705,27 +5705,37 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 53.34) (xy 185.42 101.6)
+			(xy 186.69 116.84) (xy 194.31 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "75c7016e-23ce-4640-9c1a-9a0ee4977dad")
+		(uuid "6f6ac589-a295-445e-b5a3-b58f0e1e4843")
 	)
 	(wire
 		(pts
-			(xy 220.98 33.02) (xy 228.6 33.02)
+			(xy 170.18 116.84) (xy 170.18 123.19)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7aee2cd2-cf8d-4260-a413-a9b8f7784292")
+		(uuid "7061854e-d575-495b-8341-89663922d4f6")
 	)
 	(wire
 		(pts
-			(xy 220.98 45.72) (xy 228.6 45.72)
+			(xy 203.2 40.64) (xy 213.36 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7385708d-d925-49c3-92af-ab80e36c730e")
+	)
+	(wire
+		(pts
+			(xy 179.07 116.84) (xy 186.69 116.84)
 		)
 		(stroke
 			(width 0)
@@ -5735,13 +5745,33 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 33.02) (xy 185.42 36.83)
+			(xy 170.18 116.84) (xy 179.07 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7f7cc31f-9663-4f0a-8c40-c23db8509c24")
+		(uuid "7dfc6478-e3e6-4625-ae6b-0bef292442e2")
+	)
+	(wire
+		(pts
+			(xy 185.42 60.96) (xy 185.42 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c40ca0c-ae2c-4727-9d3f-d8945ae91227")
+	)
+	(wire
+		(pts
+			(xy 203.2 60.96) (xy 213.36 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ef94eb8-3bd6-41cb-b278-f7b86ed7b38a")
 	)
 	(wire
 		(pts
@@ -5755,7 +5785,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 33.02) (xy 185.42 22.86)
+			(xy 185.42 22.86) (xy 185.42 30.48)
 		)
 		(stroke
 			(width 0)
@@ -5765,7 +5795,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 33.02) (xy 196.85 33.02)
+			(xy 185.42 40.64) (xy 195.58 40.64)
 		)
 		(stroke
 			(width 0)
@@ -5785,17 +5815,27 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 45.72) (xy 236.22 45.72)
+			(xy 185.42 30.48) (xy 195.58 30.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b7da7a6a-90f3-4b20-85aa-4db3a7150882")
+		(uuid "a86c831d-8e45-4bf6-94b3-d2598f4837e7")
 	)
 	(wire
 		(pts
-			(xy 170.18 99.06) (xy 170.18 114.3)
+			(xy 203.2 30.48) (xy 213.36 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb098261-bcb4-46d5-9919-e17a7c7bc873")
+	)
+	(wire
+		(pts
+			(xy 170.18 99.06) (xy 170.18 116.84)
 		)
 		(stroke
 			(width 0)
@@ -5815,7 +5855,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 36.83) (xy 190.5 36.83)
+			(xy 185.42 76.2) (xy 190.5 76.2)
 		)
 		(stroke
 			(width 0)
@@ -5825,7 +5865,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 55.88) (xy 190.5 59.69)
+			(xy 190.5 97.79) (xy 190.5 101.6)
 		)
 		(stroke
 			(width 0)
@@ -5835,95 +5875,17 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 33.02) (xy 236.22 33.02)
+			(xy 185.42 50.8) (xy 185.42 60.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ff80814a-68b3-41c1-a699-0cd99d46b6d4")
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 220.98 45.72 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "15ddd793-7994-4430-906d-17a6a99fb401")
-		(property "Reference" "#PWR05"
-			(at 220.98 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 220.98 50.8 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 220.98 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 220.98 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 220.98 45.72 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "71c25afc-f04b-45dd-913b-d500d17b2c6f")
-		)
-		(instances
-			(project "RTM_5V_supply_SMD"
-				(path "/ca82a3ce-893d-4356-8e85-be5155b36ed2"
-					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "fb0ca43c-76d2-4a0e-b389-c02c19d0521b")
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 228.6 30.48 0)
+		(at 213.36 38.1 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5934,7 +5896,7 @@
 		(fields_autoplaced yes)
 		(uuid "1bcbb731-5eda-40ff-8395-5b66a840d422")
 		(property "Reference" "+5VP2"
-			(at 231.14 27.9399 0)
+			(at 215.9 35.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5945,7 +5907,7 @@
 			)
 		)
 		(property "Value" "SolderWire_PTH"
-			(at 231.14 30.4799 0)
+			(at 215.9 38.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5956,7 +5918,7 @@
 			)
 		)
 		(property "Footprint" "1_My_footprint_lib:PTH_12AWG"
-			(at 228.6 30.48 0)
+			(at 213.36 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5967,7 +5929,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 30.48 0)
+			(at 213.36 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5978,7 +5940,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 228.6 30.48 0)
+			(at 213.36 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6002,7 +5964,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 190.5 40.64 0)
+		(at 190.5 82.55 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6013,7 +5975,7 @@
 		(fields_autoplaced yes)
 		(uuid "1c64577a-b736-48c8-84ae-13163a58d455")
 		(property "Reference" "R1"
-			(at 193.04 39.3699 0)
+			(at 193.04 81.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6024,7 +5986,7 @@
 			)
 		)
 		(property "Value" "3.3k"
-			(at 193.04 41.9099 0)
+			(at 193.04 83.8199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6035,7 +5997,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 188.722 40.64 90)
+			(at 188.722 82.55 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6046,7 +6008,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 40.64 0)
+			(at 190.5 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6057,7 +6019,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 190.5 40.64 0)
+			(at 190.5 82.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6084,7 +6046,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 190.5 52.07 90)
+		(at 190.5 93.98 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6095,7 +6057,7 @@
 		(fields_autoplaced yes)
 		(uuid "3a9a0f8d-9eec-4019-a644-c1b4b26b8e9c")
 		(property "Reference" "D1"
-			(at 194.31 52.3874 90)
+			(at 194.31 94.2974 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6106,7 +6068,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 194.31 54.9274 90)
+			(at 194.31 96.8374 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6117,7 +6079,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
-			(at 190.5 52.07 0)
+			(at 190.5 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6128,7 +6090,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 52.07 0)
+			(at 190.5 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6139,7 +6101,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 190.5 52.07 0)
+			(at 190.5 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6150,7 +6112,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 190.5 52.07 0)
+			(at 190.5 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6177,7 +6139,7 @@
 	)
 	(symbol
 		(lib_id "Device:Polyfuse")
-		(at 200.66 33.02 90)
+		(at 199.39 40.64 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6188,7 +6150,7 @@
 		(fields_autoplaced yes)
 		(uuid "3eb62ce9-4ada-4ca5-aa2b-17fdb15f57dd")
 		(property "Reference" "F2"
-			(at 200.66 26.67 90)
+			(at 199.39 34.29 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6198,7 +6160,7 @@
 			)
 		)
 		(property "Value" "Polyfuse"
-			(at 200.66 29.21 90)
+			(at 199.39 36.83 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6207,8 +6169,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Fuse:Fuse_Bourns_MF-RHT100"
-			(at 205.74 31.75 0)
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
+			(at 204.47 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6220,7 +6182,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.66 33.02 0)
+			(at 199.39 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6231,7 +6193,7 @@
 			)
 		)
 		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
-			(at 200.66 33.02 0)
+			(at 199.39 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6258,7 +6220,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 236.22 30.48 0)
+		(at 213.36 48.26 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6269,7 +6231,7 @@
 		(fields_autoplaced yes)
 		(uuid "51c295a0-12b0-4fd2-8ba0-b9df7bc6bdbd")
 		(property "Reference" "+5VP3"
-			(at 238.76 27.9399 0)
+			(at 215.9 45.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6280,7 +6242,7 @@
 			)
 		)
 		(property "Value" "SolderWire_PTH"
-			(at 238.76 30.4799 0)
+			(at 215.9 48.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6291,7 +6253,7 @@
 			)
 		)
 		(property "Footprint" "1_My_footprint_lib:PTH_12AWG"
-			(at 236.22 30.48 0)
+			(at 213.36 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6302,7 +6264,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 30.48 0)
+			(at 213.36 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6313,7 +6275,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 236.22 30.48 0)
+			(at 213.36 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6337,7 +6299,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 220.98 43.18 0)
+		(at 179.07 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6348,7 +6310,7 @@
 		(fields_autoplaced yes)
 		(uuid "5765db15-9d8b-44c5-b3a3-bf92cdd14372")
 		(property "Reference" "GND1"
-			(at 223.52 40.6399 0)
+			(at 181.61 111.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6359,7 +6321,7 @@
 			)
 		)
 		(property "Value" "SolderWire_PTH"
-			(at 223.52 43.1799 0)
+			(at 181.61 114.2999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6370,7 +6332,7 @@
 			)
 		)
 		(property "Footprint" "1_My_footprint_lib:PTH_12AWG"
-			(at 220.98 43.18 0)
+			(at 179.07 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6381,7 +6343,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.98 43.18 0)
+			(at 179.07 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6392,7 +6354,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 220.98 43.18 0)
+			(at 179.07 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6416,7 +6378,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 170.18 114.3 0)
+		(at 170.18 123.19 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6427,7 +6389,7 @@
 		(fields_autoplaced yes)
 		(uuid "81b3d4c7-1f18-4357-b451-8ebd44c6542f")
 		(property "Reference" "#PWR08"
-			(at 170.18 120.65 0)
+			(at 170.18 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6438,7 +6400,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 170.18 119.38 0)
+			(at 170.18 128.27 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6448,7 +6410,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.18 114.3 0)
+			(at 170.18 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6459,7 +6421,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 114.3 0)
+			(at 170.18 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6470,7 +6432,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 170.18 114.3 0)
+			(at 170.18 123.19 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6494,7 +6456,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 228.6 43.18 0)
+		(at 186.69 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6505,7 +6467,7 @@
 		(fields_autoplaced yes)
 		(uuid "83b16c0b-05af-4fc1-bdca-a5385551619b")
 		(property "Reference" "GND2"
-			(at 231.14 40.6399 0)
+			(at 189.23 111.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6516,7 +6478,7 @@
 			)
 		)
 		(property "Value" "SolderWire_PTH"
-			(at 231.14 43.1799 0)
+			(at 189.23 114.2999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6527,7 +6489,7 @@
 			)
 		)
 		(property "Footprint" "1_My_footprint_lib:PTH_12AWG"
-			(at 228.6 43.18 0)
+			(at 186.69 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6538,7 +6500,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 228.6 43.18 0)
+			(at 186.69 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6549,7 +6511,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 228.6 43.18 0)
+			(at 186.69 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6572,86 +6534,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 214.63 22.86 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8b94c514-b269-48d6-b38c-81dd9995d0be")
-		(property "Reference" "#PWR03"
-			(at 214.63 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5VP"
-			(at 214.63 17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 214.63 22.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 214.63 22.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 214.63 22.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b7d014e8-cf64-4057-8f74-dd066cf1ad9c")
-		)
-		(instances
-			(project "RTM_5V_supply_SMD"
-				(path "/ca82a3ce-893d-4356-8e85-be5155b36ed2"
-					(reference "#PWR03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 236.22 43.18 0)
+		(at 194.31 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6662,7 +6546,7 @@
 		(fields_autoplaced yes)
 		(uuid "8ba7ba81-a35a-4ea9-b62f-1ac1beab8062")
 		(property "Reference" "GND3"
-			(at 238.76 40.6399 0)
+			(at 196.85 111.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6673,7 +6557,7 @@
 			)
 		)
 		(property "Value" "SolderWire_PTH"
-			(at 238.76 43.1799 0)
+			(at 196.85 114.2999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6684,7 +6568,7 @@
 			)
 		)
 		(property "Footprint" "1_My_footprint_lib:PTH_12AWG"
-			(at 236.22 43.18 0)
+			(at 194.31 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6695,7 +6579,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 43.18 0)
+			(at 194.31 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6706,7 +6590,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 236.22 43.18 0)
+			(at 194.31 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6807,8 +6691,170 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Polyfuse")
+		(at 199.39 50.8 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9d790abb-4dbb-4296-8265-261888721697")
+		(property "Reference" "F3"
+			(at 199.39 44.45 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Polyfuse"
+			(at 199.39 46.99 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
+			(at 204.47 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
+			(at 199.39 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "089100c7-692b-46a7-baef-25802e338b40")
+		)
+		(pin "1"
+			(uuid "d9d5f459-26cd-45b3-bbc7-72fb12dad467")
+		)
+		(instances
+			(project "RTM_5V_supply_SMD"
+				(path "/ca82a3ce-893d-4356-8e85-be5155b36ed2"
+					(reference "F3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Polyfuse")
+		(at 199.39 30.48 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9f43a53f-f2ff-45fd-8813-21a265890afc")
+		(property "Reference" "F1"
+			(at 199.39 24.13 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Polyfuse"
+			(at 199.39 26.67 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
+			(at 204.47 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
+			(at 199.39 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a64681f5-e8f0-48c3-8f3f-0250259b0c93")
+		)
+		(pin "1"
+			(uuid "94178111-86b8-4400-8659-e38301cc263f")
+		)
+		(instances
+			(project "RTM_5V_supply_SMD"
+				(path "/ca82a3ce-893d-4356-8e85-be5155b36ed2"
+					(reference "F1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 220.98 30.48 0)
+		(at 213.36 27.94 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6819,7 +6865,7 @@
 		(fields_autoplaced yes)
 		(uuid "a129b9e6-a9b7-4953-966e-fd4b661f082d")
 		(property "Reference" "+5VP1"
-			(at 223.52 27.9399 0)
+			(at 215.9 25.3999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6830,7 +6876,7 @@
 			)
 		)
 		(property "Value" "SolderWire_PTH"
-			(at 223.52 30.4799 0)
+			(at 215.9 27.9399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6841,7 +6887,7 @@
 			)
 		)
 		(property "Footprint" "1_My_footprint_lib:PTH_12AWG"
-			(at 220.98 30.48 0)
+			(at 213.36 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6852,7 +6898,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 220.98 30.48 0)
+			(at 213.36 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6863,7 +6909,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 220.98 30.48 0)
+			(at 213.36 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6887,7 +6933,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 243.84 43.18 0)
+		(at 201.93 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6898,7 +6944,7 @@
 		(fields_autoplaced yes)
 		(uuid "a5ed054f-b9a5-460a-b0d5-5f7ce7e6496c")
 		(property "Reference" "GND4"
-			(at 246.38 40.6399 0)
+			(at 204.47 111.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6909,7 +6955,7 @@
 			)
 		)
 		(property "Value" "SolderWire_PTH"
-			(at 246.38 43.1799 0)
+			(at 204.47 114.2999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6920,7 +6966,7 @@
 			)
 		)
 		(property "Footprint" "1_My_footprint_lib:PTH_12AWG"
-			(at 243.84 43.18 0)
+			(at 201.93 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6931,7 +6977,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 43.18 0)
+			(at 201.93 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6942,7 +6988,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 243.84 43.18 0)
+			(at 201.93 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6965,8 +7011,89 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Polyfuse")
+		(at 199.39 60.96 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b50f54f6-2652-428f-af50-080b2b601268")
+		(property "Reference" "F4"
+			(at 199.39 54.61 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Polyfuse"
+			(at 199.39 57.15 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
+			(at 204.47 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
+			(at 199.39 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "dd6be5d4-ffe7-45dd-9ead-4fcfe49c9399")
+		)
+		(pin "1"
+			(uuid "8a512474-ac89-4581-9bc6-4926b788a752")
+		)
+		(instances
+			(project "RTM_5V_supply_SMD"
+				(path "/ca82a3ce-893d-4356-8e85-be5155b36ed2"
+					(reference "F4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 190.5 59.69 0)
+		(at 190.5 101.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6977,7 +7104,7 @@
 		(fields_autoplaced yes)
 		(uuid "cb66da29-8f12-4181-8f3e-4d7ebd630d50")
 		(property "Reference" "#PWR02"
-			(at 190.5 66.04 0)
+			(at 190.5 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6988,7 +7115,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 190.5 64.77 0)
+			(at 190.5 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6998,7 +7125,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 190.5 59.69 0)
+			(at 190.5 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7009,7 +7136,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 59.69 0)
+			(at 190.5 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7020,7 +7147,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 190.5 59.69 0)
+			(at 190.5 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7044,7 +7171,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 243.84 30.48 0)
+		(at 213.36 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7055,7 +7182,7 @@
 		(fields_autoplaced yes)
 		(uuid "d5bc3098-5e2b-43eb-8d2b-397339c2ccb8")
 		(property "Reference" "+5VP4"
-			(at 246.38 27.9399 0)
+			(at 215.9 55.8799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7066,7 +7193,7 @@
 			)
 		)
 		(property "Value" "SolderWire_PTH"
-			(at 246.38 30.4799 0)
+			(at 215.9 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7077,7 +7204,7 @@
 			)
 		)
 		(property "Footprint" "1_My_footprint_lib:PTH_12AWG"
-			(at 243.84 30.48 0)
+			(at 213.36 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7088,7 +7215,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 30.48 0)
+			(at 213.36 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7099,7 +7226,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 243.84 30.48 0)
+			(at 213.36 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
