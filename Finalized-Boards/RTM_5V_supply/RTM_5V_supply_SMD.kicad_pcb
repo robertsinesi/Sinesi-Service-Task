@@ -510,7 +510,7 @@
 				)
 			)
 		)
-		(property "Value" "Polyfuse"
+		(property "Value" "MF-MSMF110/16-2"
 			(at 0 2.65 90)
 			(layer "F.Fab")
 			(uuid "c867e63e-7995-45d9-ac40-2896466b23aa")
@@ -1010,7 +1010,7 @@
 				)
 			)
 		)
-		(property "Value" "Polyfuse"
+		(property "Value" "MF-MSMF110/16-2"
 			(at 0 2.65 90)
 			(layer "F.Fab")
 			(uuid "e870ecb1-37d5-4edc-ac07-f267f1c36110")
@@ -1396,7 +1396,7 @@
 				)
 			)
 		)
-		(property "Value" "Polyfuse"
+		(property "Value" "MF-MSMF110/16-2"
 			(at 0 2.65 90)
 			(layer "F.Fab")
 			(uuid "be6e3327-677a-4c13-bb07-72fa990bbbf5")
@@ -1554,7 +1554,7 @@
 				)
 			)
 		)
-		(property "Value" "Polyfuse"
+		(property "Value" "MF-MSMF110/16-2"
 			(at 0 2.65 90)
 			(layer "F.Fab")
 			(uuid "1f422975-0e98-4432-b909-aee01834a59d")
@@ -3617,6 +3617,18 @@
 		(layer "User.1")
 		(uuid "904c4f4f-243b-4b37-835e-cc7913d6aa48")
 	)
+	(gr_text "IDL_26_026 - KLM RTM 5V revB - 2026-09 - CK/RS"
+		(at 94.5 100 90)
+		(layer "B.SilkS")
+		(uuid "7b64bc2a-71d0-435c-90fc-4fc9963f3957")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
 	(gr_text "5V"
 		(at 108 51.6 0)
 		(layer "F.SilkS")
@@ -3703,42 +3715,6 @@
 				(size 1 1)
 				(thickness 0.15)
 			)
-		)
-	)
-	(gr_text "RTM 5V revB"
-		(at 99.3 141.3 0)
-		(layer "B.SilkS")
-		(uuid "ea61e283-1f3b-4b22-a33b-5952888620a1")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify mirror)
-		)
-	)
-	(gr_text "CK/RS"
-		(at 100.7 142.7 0)
-		(layer "B.SilkS")
-		(uuid "8d077aa5-73c0-4270-8f31-877b57e0bad5")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify mirror)
-		)
-	)
-	(gr_text "2026-09"
-		(at 101.8 148.3 0)
-		(layer "B.SilkS")
-		(uuid "19480127-b5d2-482e-b07a-16f69ca3e03d")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify mirror)
 		)
 	)
 	(gr_text "5V"
