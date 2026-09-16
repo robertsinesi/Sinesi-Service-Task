@@ -3617,18 +3617,6 @@
 		(layer "User.1")
 		(uuid "904c4f4f-243b-4b37-835e-cc7913d6aa48")
 	)
-	(gr_text "IDL_26_026 - KLM RTM 5V revB - 2026-09 - CK/RS"
-		(at 94.5 100 90)
-		(layer "B.SilkS")
-		(uuid "7b64bc2a-71d0-435c-90fc-4fc9963f3957")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-			(justify mirror)
-		)
-	)
 	(gr_text "5V"
 		(at 108 51.6 0)
 		(layer "F.SilkS")
@@ -3853,6 +3841,18 @@
 		(at 108 142.6 0)
 		(layer "B.SilkS")
 		(uuid "997af0bb-0240-4997-bd8b-81d98192c4ac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "IDL_26_026 - KLM RTM 5V revB - 2026-09 - CK/RS"
+		(at 94.5 100 90)
+		(layer "B.SilkS")
+		(uuid "7b64bc2a-71d0-435c-90fc-4fc9963f3957")
 		(effects
 			(font
 				(size 1 1)
