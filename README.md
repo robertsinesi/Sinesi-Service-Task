@@ -36,6 +36,8 @@ Finalization:
 - Feed prototype results back into the board designs
 - Help finalize assembly procedures ahead of the production run
 
+Superseded board revisions are kept under [`Archive/`](Archive/) (see its README); current files are in `Finalized-Boards/`.
+
 ## Deliverable
 
 - Finalized board designs

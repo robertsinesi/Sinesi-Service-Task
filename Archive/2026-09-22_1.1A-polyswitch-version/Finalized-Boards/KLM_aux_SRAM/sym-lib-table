@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "1_klm-sram-exp-lib")(type "KiCad")(uri "/home/cketter/klm/SRAM_upgrade/klm-sram-exp/kicad_lib/symbol_lib/my_symbol_lib.kicad_sym")(options "")(descr ""))
+)
