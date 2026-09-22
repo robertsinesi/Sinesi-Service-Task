@@ -36,7 +36,7 @@ Finalization:
 - Feed prototype results back into the board designs
 - Help finalize assembly procedures ahead of the production run
 
-Superseded board revisions are kept under [`Archive/`](Archive/) (see its README); current files are in `Finalized-Boards/`.
+Superseded board revisions are kept in the `Old_Boards_Moved_<M-D-YY>/` folders (dated by when they were superseded, each with a short README); current files are in `Finalized-Boards/`.
 
 ## Deliverable
 
