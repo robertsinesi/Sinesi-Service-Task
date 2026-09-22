@@ -1,35 +1,8 @@
 ** Drc report for RTM_5V_supply_SMD.kicad_pcb **
-** Created on 2026-09-14T23:37:44 **
-** Report includes: Errors, Warnings, Exclusions **
+** Created on 2026-09-21T21:25:51 **
+** Report includes: Errors **
 
-** Found 9 DRC violations **
-[lib_footprint_issues]: The footprint library '1_My_footprint_lib' is not enabled in the current configuration
-    Local override; warning
-    @(108.0000 mm, 68.1000 mm): Footprint GND1
-[lib_footprint_issues]: The footprint library '1_My_footprint_lib' is not enabled in the current configuration
-    Local override; warning
-    @(108.0000 mm, 80.3000 mm): Footprint +5VP2
-[lib_footprint_issues]: The footprint library '1_My_footprint_lib' is not enabled in the current configuration
-    Local override; warning
-    @(108.0000 mm, 93.9000 mm): Footprint GND2
-[lib_footprint_issues]: The footprint library '1_My_footprint_lib' is not enabled in the current configuration
-    Local override; warning
-    @(108.0000 mm, 145.5000 mm): Footprint GND4
-[lib_footprint_issues]: The footprint library '1_My_footprint_lib' is not enabled in the current configuration
-    Local override; warning
-    @(108.0000 mm, 131.9000 mm): Footprint +5VP4
-[lib_footprint_issues]: The footprint library '1_My_footprint_lib' is not enabled in the current configuration
-    Local override; warning
-    @(108.0000 mm, 119.7000 mm): Footprint GND3
-[lib_footprint_issues]: The footprint library '1_My_footprint_lib' is not enabled in the current configuration
-    Local override; warning
-    @(108.0000 mm, 106.1000 mm): Footprint +5VP3
-[lib_footprint_issues]: The footprint library '1_My_footprint_lib' is not enabled in the current configuration
-    Local override; warning
-    @(108.0000 mm, 54.5000 mm): Footprint +5VP1
-[lib_footprint_issues]: The footprint library '86093968114755V1LF' is not enabled in the current configuration
-    Local override; warning
-    @(100.0000 mm, 100.0000 mm): Footprint J1
+** Found 0 DRC violations **
 
 ** Found 0 unconnected pads **
 

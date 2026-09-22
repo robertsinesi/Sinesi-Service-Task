@@ -1253,7 +1253,7 @@
 				)
 			)
 		)
-		(property "Value" "MF-MSMF110/16-2"
+		(property "Value" "MF-MSMF010-2"
 			(at 110.49 45.72 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1386,7 +1386,7 @@
 				)
 			)
 		)
-		(property "Value" "MF-MSMF110/16-2"
+		(property "Value" "MF-MSMF010-2"
 			(at 110.49 60.96 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1519,7 +1519,7 @@
 				)
 			)
 		)
-		(property "Value" "MF-MSMF110/16-2"
+		(property "Value" "MF-MSMF010-2"
 			(at 110.49 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1646,7 +1646,7 @@
 				)
 			)
 		)
-		(property "Value" "MF-MSMF110/16-2"
+		(property "Value" "MF-MSMF010-2"
 			(at 110.49 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
