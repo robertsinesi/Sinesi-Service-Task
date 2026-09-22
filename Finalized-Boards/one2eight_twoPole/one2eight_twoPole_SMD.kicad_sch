@@ -329,146 +329,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:R"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "R"
-				(at 0 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at -1.778 0 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Resistor"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "R res resistor"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "R_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "R_0_1"
-				(rectangle
-					(start -1.016 -2.54)
-					(end 1.016 2.54)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "R_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:Polyfuse"
 			(pin_numbers
 				(hide yes)
@@ -595,6 +455,146 @@
 				)
 			)
 			(symbol "Polyfuse_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:R"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
 				(pin passive line
 					(at 0 3.81 270)
 					(length 1.27)
@@ -932,6 +932,18 @@
 		(uuid "08625ea6-559c-449b-9572-7ec3277f8ee3")
 	)
 	(junction
+		(at 119.38 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "11f49f6f-f910-4959-a9d6-0238f08c4263")
+	)
+	(junction
+		(at 101.6 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "182f448b-f1bc-4b6a-a19f-ab52e671ee58")
+	)
+	(junction
 		(at 195.58 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -944,10 +956,22 @@
 		(uuid "29e184ba-d9dd-444b-ac08-cb2de6ebdab2")
 	)
 	(junction
+		(at 119.38 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3bf0ca9a-0fd5-4246-b530-22701737d717")
+	)
+	(junction
 		(at 195.58 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5817e14a-28c7-444a-b52b-011efe9c2e0a")
+	)
+	(junction
+		(at 119.38 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "861e0bef-b496-4741-b7a5-e1f24da9016a")
 	)
 	(junction
 		(at 195.58 48.26)
@@ -968,16 +992,44 @@
 		(uuid "ba45dc72-c0ea-4ce4-94bf-5e61a5038a7b")
 	)
 	(junction
+		(at 101.6 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d94d7485-144a-4cd9-b633-398a2b71a688")
+	)
+	(junction
 		(at 87.63 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e554c65a-58d4-4f79-a46f-d1d152e339e8")
 	)
 	(junction
+		(at 119.38 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ed34036a-40fb-4cb8-8571-bc971c07ba16")
+	)
+	(junction
 		(at 195.58 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ef7e5ace-5119-4109-9a58-9ea6911e1278")
+	)
+	(junction
+		(at 101.6 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fddf1c7b-da85-4aa4-a61f-69ba5d8fe0a9")
+	)
+	(wire
+		(pts
+			(xy 101.6 95.25) (xy 106.68 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04c7f3b3-d25f-4c31-a36d-d314563ab3b2")
 	)
 	(wire
 		(pts
@@ -988,6 +1040,26 @@
 			(type default)
 		)
 		(uuid "0d06276e-8c8a-4dcd-949d-7e68a7125c19")
+	)
+	(wire
+		(pts
+			(xy 101.6 80.01) (xy 106.68 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16f53fd7-cf82-43d2-9420-6602a0f8831d")
+	)
+	(wire
+		(pts
+			(xy 119.38 77.47) (xy 119.38 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c79391e-5bf8-49c4-80bc-29493b560016")
 	)
 	(wire
 		(pts
@@ -1011,6 +1083,26 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 49.53) (xy 119.38 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28d2125a-049c-44ad-b7cc-7d9371097e2e")
+	)
+	(wire
+		(pts
+			(xy 114.3 64.77) (xy 119.38 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2c3811b9-8198-4148-bc4c-c76888deb835")
+	)
+	(wire
+		(pts
 			(xy 77.47 55.88) (xy 80.01 55.88)
 		)
 		(stroke
@@ -1021,6 +1113,36 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 92.71) (xy 119.38 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ac6f36c-0203-4e9a-8a67-e345a39943f8")
+	)
+	(wire
+		(pts
+			(xy 101.6 64.77) (xy 101.6 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "566904a5-1216-4e34-a8cd-ecffb81398bb")
+	)
+	(wire
+		(pts
+			(xy 101.6 80.01) (xy 101.6 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ef9f071-9c59-47b5-a20d-0c85af241d62")
+	)
+	(wire
+		(pts
 			(xy 87.63 53.34) (xy 87.63 55.88)
 		)
 		(stroke
@@ -1028,6 +1150,46 @@
 			(type default)
 		)
 		(uuid "772f66ca-f9a3-44bb-8f8b-0ac1649c825c")
+	)
+	(wire
+		(pts
+			(xy 101.6 49.53) (xy 106.68 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89ba64cf-b7cf-45d6-94c5-6d4477fca0a6")
+	)
+	(wire
+		(pts
+			(xy 114.3 80.01) (xy 119.38 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93119e97-60af-4564-bf0c-fa5415a22024")
+	)
+	(wire
+		(pts
+			(xy 114.3 95.25) (xy 119.38 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94776163-814b-4e8b-a3da-3e423e74735e")
+	)
+	(wire
+		(pts
+			(xy 101.6 49.53) (xy 101.6 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a388cf43-a7c2-4b1f-8452-9ff16d3024f5")
 	)
 	(wire
 		(pts
@@ -1061,6 +1223,16 @@
 	)
 	(wire
 		(pts
+			(xy 101.6 43.18) (xy 101.6 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb936196-2564-4ee9-9af9-835d3ff6a97f")
+	)
+	(wire
+		(pts
 			(xy 195.58 80.01) (xy 195.58 86.36)
 		)
 		(stroke
@@ -1068,6 +1240,26 @@
 			(type default)
 		)
 		(uuid "c7f5d0be-bd8d-43ef-aa5e-0c182deeace3")
+	)
+	(wire
+		(pts
+			(xy 119.38 46.99) (xy 119.38 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8ad8faf-45a9-4824-9ab9-75585409403d")
+	)
+	(wire
+		(pts
+			(xy 119.38 62.23) (xy 119.38 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d429198d-816c-4b3a-8fee-f5ac3b918bb7")
 	)
 	(wire
 		(pts
@@ -1098,6 +1290,16 @@
 			(type default)
 		)
 		(uuid "ded528d5-9253-4a5a-9e5a-75aeb1c32ff9")
+	)
+	(wire
+		(pts
+			(xy 101.6 64.77) (xy 106.68 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dfd2f0cf-f2a3-4071-9729-6a6b68f4fef9")
 	)
 	(wire
 		(pts
@@ -1139,81 +1341,15 @@
 		)
 		(uuid "f519abcd-21ca-4a8b-9d69-a4b8d3cd8119")
 	)
-	(wire
-		(pts
-			(xy 101.6 43.18) (xy 101.6 49.53)
+	(label "+5VF4"
+		(at 116.84 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
 		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bb936196-2564-4ee9-9af9-835d3ff6a97f")
-	)
-	(wire
-		(pts
-			(xy 101.6 49.53) (xy 101.6 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a388cf43-a7c2-4b1f-8452-9ff16d3024f5")
-	)
-	(wire
-		(pts
-			(xy 101.6 64.77) (xy 101.6 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "566904a5-1216-4e34-a8cd-ecffb81398bb")
-	)
-	(wire
-		(pts
-			(xy 101.6 80.01) (xy 101.6 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ef9f071-9c59-47b5-a20d-0c85af241d62")
-	)
-	(wire
-		(pts
-			(xy 101.6 49.53) (xy 106.68 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "89ba64cf-b7cf-45d6-94c5-6d4477fca0a6")
-	)
-	(wire
-		(pts
-			(xy 114.3 49.53) (xy 119.38 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28d2125a-049c-44ad-b7cc-7d9371097e2e")
-	)
-	(wire
-		(pts
-			(xy 119.38 46.99) (xy 119.38 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c8ad8faf-45a9-4824-9ab9-75585409403d")
-	)
-	(junction
-		(at 119.38 49.53)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "861e0bef-b496-4741-b7a5-e1f24da9016a")
+		(uuid "11393b51-364c-4630-af35-f59fec67ea7f")
 	)
 	(label "+5VF1"
 		(at 116.84 49.53 0)
@@ -1225,262 +1361,6 @@
 		)
 		(uuid "29ca62eb-4cbd-4563-9567-aebdf9e87c66")
 	)
-	(junction
-		(at 101.6 49.53)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "182f448b-f1bc-4b6a-a19f-ab52e671ee58")
-	)
-	(symbol
-		(lib_id "Device:Polyfuse")
-		(at 110.49 49.53 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3b4299d7-6c1a-427d-8286-0f714691f5fe")
-		(property "Reference" "F1"
-			(at 110.49 43.18 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MF-MSMF010-2"
-			(at 110.49 45.72 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
-			(at 115.57 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Datasheet" ""
-			(at 110.49 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
-			(at 110.49 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d9807234-7cdb-4d3f-b21b-69520f5a46c6")
-		)
-		(pin "2"
-			(uuid "c37ab589-b709-484b-a80f-70b2b43766be")
-		)
-		(instances
-			(project "one2eight_twoPole_SMD"
-				(path "/16180d43-7c84-4168-a9aa-614ef17c69c2"
-					(reference "F1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(wire
-		(pts
-			(xy 101.6 64.77) (xy 106.68 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dfd2f0cf-f2a3-4071-9729-6a6b68f4fef9")
-	)
-	(wire
-		(pts
-			(xy 114.3 64.77) (xy 119.38 64.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c3811b9-8198-4148-bc4c-c76888deb835")
-	)
-	(wire
-		(pts
-			(xy 119.38 62.23) (xy 119.38 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d429198d-816c-4b3a-8fee-f5ac3b918bb7")
-	)
-	(junction
-		(at 119.38 64.77)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ed34036a-40fb-4cb8-8571-bc971c07ba16")
-	)
-	(label "+5VF2"
-		(at 116.84 64.77 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "aeb99f5d-8d7d-43bc-9ecf-969779ad4cfb")
-	)
-	(junction
-		(at 101.6 64.77)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fddf1c7b-da85-4aa4-a61f-69ba5d8fe0a9")
-	)
-	(symbol
-		(lib_id "Device:Polyfuse")
-		(at 110.49 64.77 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f407dd16-445f-4bce-a308-c5adefdc4419")
-		(property "Reference" "F2"
-			(at 110.49 58.42 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MF-MSMF010-2"
-			(at 110.49 60.96 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
-			(at 115.57 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Datasheet" ""
-			(at 110.49 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
-			(at 110.49 64.77 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b558983d-fda9-454b-b614-9494cbae3bc3")
-		)
-		(pin "2"
-			(uuid "1fd39857-7769-4451-a20a-3f6af1c560d1")
-		)
-		(instances
-			(project "one2eight_twoPole_SMD"
-				(path "/16180d43-7c84-4168-a9aa-614ef17c69c2"
-					(reference "F2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(wire
-		(pts
-			(xy 101.6 80.01) (xy 106.68 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "16f53fd7-cf82-43d2-9420-6602a0f8831d")
-	)
-	(wire
-		(pts
-			(xy 114.3 80.01) (xy 119.38 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "93119e97-60af-4564-bf0c-fa5415a22024")
-	)
-	(wire
-		(pts
-			(xy 119.38 77.47) (xy 119.38 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1c79391e-5bf8-49c4-80bc-29493b560016")
-	)
-	(junction
-		(at 119.38 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3bf0ca9a-0fd5-4246-b530-22701737d717")
-	)
 	(label "+5VF3"
 		(at 116.84 80.01 0)
 		(effects
@@ -1491,219 +1371,15 @@
 		)
 		(uuid "98507816-8664-4256-a28f-ffdfa04a5d60")
 	)
-	(junction
-		(at 101.6 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d94d7485-144a-4cd9-b633-398a2b71a688")
-	)
-	(symbol
-		(lib_id "Device:Polyfuse")
-		(at 110.49 80.01 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "967d5929-9baf-49fa-9273-8f6f10186492")
-		(property "Reference" "F3"
-			(at 110.49 73.66 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MF-MSMF010-2"
-			(at 110.49 76.2 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
-			(at 115.57 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Datasheet" ""
-			(at 110.49 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
-			(at 110.49 80.01 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "3a423b16-09b9-475e-b3c4-4420650b1db2")
-		)
-		(pin "2"
-			(uuid "902f809f-bc16-43f8-ac5e-b47f3f8ca75a")
-		)
-		(instances
-			(project "one2eight_twoPole_SMD"
-				(path "/16180d43-7c84-4168-a9aa-614ef17c69c2"
-					(reference "F3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(wire
-		(pts
-			(xy 101.6 95.25) (xy 106.68 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "04c7f3b3-d25f-4c31-a36d-d314563ab3b2")
-	)
-	(wire
-		(pts
-			(xy 114.3 95.25) (xy 119.38 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94776163-814b-4e8b-a3da-3e423e74735e")
-	)
-	(wire
-		(pts
-			(xy 119.38 92.71) (xy 119.38 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ac6f36c-0203-4e9a-8a67-e345a39943f8")
-	)
-	(junction
-		(at 119.38 95.25)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "11f49f6f-f910-4959-a9d6-0238f08c4263")
-	)
-	(label "+5VF4"
-		(at 116.84 95.25 0)
+	(label "+5VF2"
+		(at 116.84 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "11393b51-364c-4630-af35-f59fec67ea7f")
-	)
-	(symbol
-		(lib_id "Device:Polyfuse")
-		(at 110.49 95.25 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2f78b62d-8d80-432b-b359-57b35bbbd836")
-		(property "Reference" "F4"
-			(at 110.49 88.9 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "MF-MSMF010-2"
-			(at 110.49 91.44 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
-			(at 115.57 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Datasheet" ""
-			(at 110.49 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
-			(at 110.49 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d2ca2deb-eaa6-4ac7-a579-c3dcf43e63b7")
-		)
-		(pin "2"
-			(uuid "4d4e4a66-58e0-4bb2-b68e-53796007c51c")
-		)
-		(instances
-			(project "one2eight_twoPole_SMD"
-				(path "/16180d43-7c84-4168-a9aa-614ef17c69c2"
-					(reference "F4")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "aeb99f5d-8d7d-43bc-9ecf-969779ad4cfb")
 	)
 	(symbol
 		(lib_id "power:Earth")
@@ -2253,6 +1929,168 @@
 			(project "one2eight_twoPole_SMD"
 				(path "/16180d43-7c84-4168-a9aa-614ef17c69c2"
 					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Polyfuse")
+		(at 110.49 95.25 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2f78b62d-8d80-432b-b359-57b35bbbd836")
+		(property "Reference" "F4"
+			(at 110.49 88.9 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MF-MSMF010-2"
+			(at 110.49 91.44 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
+			(at 115.57 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 110.49 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
+			(at 110.49 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d2ca2deb-eaa6-4ac7-a579-c3dcf43e63b7")
+		)
+		(pin "2"
+			(uuid "4d4e4a66-58e0-4bb2-b68e-53796007c51c")
+		)
+		(instances
+			(project "one2eight_twoPole_SMD"
+				(path "/16180d43-7c84-4168-a9aa-614ef17c69c2"
+					(reference "F4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Polyfuse")
+		(at 110.49 49.53 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3b4299d7-6c1a-427d-8286-0f714691f5fe")
+		(property "Reference" "F1"
+			(at 110.49 43.18 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MF-MSMF010-2"
+			(at 110.49 45.72 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
+			(at 115.57 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 110.49 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
+			(at 110.49 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d9807234-7cdb-4d3f-b21b-69520f5a46c6")
+		)
+		(pin "2"
+			(uuid "c37ab589-b709-484b-a80f-70b2b43766be")
+		)
+		(instances
+			(project "one2eight_twoPole_SMD"
+				(path "/16180d43-7c84-4168-a9aa-614ef17c69c2"
+					(reference "F1")
 					(unit 1)
 				)
 			)
@@ -3295,6 +3133,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Polyfuse")
+		(at 110.49 80.01 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "967d5929-9baf-49fa-9273-8f6f10186492")
+		(property "Reference" "F3"
+			(at 110.49 73.66 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MF-MSMF010-2"
+			(at 110.49 76.2 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
+			(at 115.57 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 110.49 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
+			(at 110.49 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3a423b16-09b9-475e-b3c4-4420650b1db2")
+		)
+		(pin "2"
+			(uuid "902f809f-bc16-43f8-ac5e-b47f3f8ca75a")
+		)
+		(instances
+			(project "one2eight_twoPole_SMD"
+				(path "/16180d43-7c84-4168-a9aa-614ef17c69c2"
+					(reference "F3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 119.38 97.79 270)
 		(unit 1)
@@ -3526,6 +3445,87 @@
 			(project "one2eight_twoPole_SMD"
 				(path "/16180d43-7c84-4168-a9aa-614ef17c69c2"
 					(reference "TP15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Polyfuse")
+		(at 110.49 64.77 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f407dd16-445f-4bce-a308-c5adefdc4419")
+		(property "Reference" "F2"
+			(at 110.49 58.42 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "MF-MSMF010-2"
+			(at 110.49 60.96 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric"
+			(at 115.57 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Datasheet" ""
+			(at 110.49 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resettable fuse, polymeric positive temperature coefficient"
+			(at 110.49 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b558983d-fda9-454b-b614-9494cbae3bc3")
+		)
+		(pin "2"
+			(uuid "1fd39857-7769-4451-a20a-3f6af1c560d1")
+		)
+		(instances
+			(project "one2eight_twoPole_SMD"
+				(path "/16180d43-7c84-4168-a9aa-614ef17c69c2"
+					(reference "F2")
 					(unit 1)
 				)
 			)

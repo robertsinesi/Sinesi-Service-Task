@@ -1,6 +1,6 @@
 ** Drc report for one2eight_twoPole_SMD.kicad_pcb **
-** Created on 2026-09-21T21:25:53 **
-** Report includes: Errors **
+** Created on 2026-09-22T13:14:03 **
+** Report includes: Errors, Warnings, Exclusions **
 
 ** Found 0 DRC violations **
 
@@ -13,6 +13,7 @@
     - Track endpoint not centered on via
     - Tuning profile track geometries
     - Footprint doesn't match symbol's footprint filters
+    - Silkscreen clipped by solder mask
     - PTH inside courtyard
     - NPTH inside courtyard
     - Footprint component type doesn't match footprint pads

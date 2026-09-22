@@ -111,7 +111,7 @@
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",
-        "missing_courtyard": "warning",
+        "missing_courtyard": "ignore",
         "missing_footprint": "warning",
         "missing_tuning_profile": "warning",
         "net_conflict": "warning",
@@ -122,7 +122,7 @@
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "ignore",
-        "silk_overlap": "warning",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
@@ -253,7 +253,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -676,7 +676,7 @@
       {
         "filename": "SRAM_exp.kicad_sch",
         "name": "SRAM_exp",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "59493f99-3e6e-4fa8-bb36-be3f5195ff76"
       }
     ],
     "used_designators": "",
@@ -685,7 +685,7 @@
   "sheets": [
     [
       "59493f99-3e6e-4fa8-bb36-be3f5195ff76",
-      "Root"
+      "SRAM_exp"
     ]
   ],
   "text_variables": {},

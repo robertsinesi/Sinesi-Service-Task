@@ -1,17 +1,23 @@
 ** Drc report for SRAM_exp.kicad_pcb **
-** Created on 2026-09-21T21:25:55 **
-** Report includes: Errors **
+** Created on 2026-09-22T13:14:27 **
+** Report includes: Errors, Warnings, Exclusions **
 
-** Found 0 DRC violations **
+** Found 1 DRC violations **
+[text_thickness]: Text thickness out of range (TrueType font characters with insufficient stroke weight)
+    Rule: board setup constraints silk text thickness; warning
+    @(123.4679 mm, 107.2651 mm): PCB text 'University of Hawai'i
+at Manoa' on B.Silkscreen
 
 ** Found 0 unconnected pads **
 
 ** Found 0 Footprint errors **
 
 ** Ignored checks **
+    - Footprint has no courtyard defined
     - Track endpoint not centered on via
     - Tuning profile track geometries
     - Footprint doesn't match symbol's footprint filters
+    - Silkscreen clearance
     - Silkscreen clipped by solder mask
     - Footprint component type doesn't match footprint pads
 
