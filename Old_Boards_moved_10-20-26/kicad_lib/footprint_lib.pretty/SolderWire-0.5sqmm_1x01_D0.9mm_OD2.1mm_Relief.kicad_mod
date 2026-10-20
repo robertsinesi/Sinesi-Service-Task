@@ -1,0 +1,116 @@
+(footprint "SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm_Relief"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Soldered wire connection with feed through strain relief, for a single 0.5 mm² wire, basic insulation, conductor diameter 0.9mm, outer diameter 2.1mm, size source Multi-Contact FLEXI-E 0.50 (https://www.staubli.com/content/dam/ecs/catalogs-brochures/TM/CAB-Main-11014119-en.pdf#page=9), bend radius 3 times outer diameter, generated with kicad-footprint-generator")
+	(tags "connector wire 0.5sqmm strain-relief")
+	(property "Reference" "TP6"
+		(at 0 -2.28 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "3399e3b8-f24a-4748-b465-7ab92640f9fa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TestPoint"
+		(at 0 14.5 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d72b35ae-fcb7-48e8-9936-335d19d93f34")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ba1686f5-2582-4222-927a-b6a44fc5713e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "test point"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7a65ed13-2d43-49e8-ba46-dbce572837f9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files)
+	(fp_line
+		(start 0 1)
+		(end 0 4.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "43f4cd2c-b96e-4139-ac52-afb7ba173139")
+	)
+	(fp_circle
+		(center 0 7)
+		(end 1.05 7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "34ea39f3-cf8a-41fd-b211-4ed9c186a519")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 3 270)
+		(layer "F.Fab")
+		(uuid "dd1c4270-0611-4eaf-8917-96ee292ac8a5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 7)
+		(size 2 2)
+		(drill 2)
+		(layers "F&B.Cu" "*.Mask")
+		(uuid "f901824f-9ab9-4002-ad30-54168a572796")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "66584ad6-dfa3-478a-89e1-c0f3f2da593c")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm_Relief.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

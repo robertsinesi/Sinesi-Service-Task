@@ -1,0 +1,156 @@
+(footprint "SolderWire-4sqmm_1x01_D3mm_OD6mm_Relief"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Soldered wire connection with feed through strain relief, for a single 4 mm² wire, reinforced insulation, conductor diameter 3mm, outer diameter 6mm, size source Multi-Contact FLEXI-xV 2.5 (https://www.staubli.com/content/dam/ecs/catalogs-brochures/TM/CAB-Main-11014119-en.pdf#page=11), bend radius 3 times outer diameter, generated with kicad-footprint-generator")
+	(tags "connector wire 4sqmm strain-relief")
+	(property "Reference" "REF**"
+		(at 0 -4.2 0)
+		(layer "F.SilkS")
+		(uuid "b3371810-e8ad-4986-b72b-17ae0072c621")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SolderWire-4sqmm_1x01_D3mm_OD6mm_Relief"
+		(at 0 40.45 0)
+		(layer "F.Fab")
+		(uuid "07bef626-3434-4ffd-a2b6-b7bbc0df9958")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "11ce287a-d711-426d-ad4d-1a8c7f476516")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d96d8d72-4060-46f9-853b-6032bbffd692")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_line
+		(start -3.11 3.26)
+		(end -3.11 32.89)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "33bad7de-7a45-48b3-a073-4fa372d78f2f")
+	)
+	(fp_line
+		(start 3.11 3.26)
+		(end 3.11 32.89)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f76f28d5-4614-4fa0-8e7a-16b62627672e")
+	)
+	(fp_line
+		(start -3 0)
+		(end -3 36)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "68658678-28a5-4635-a305-cc6ce9d0bed0")
+	)
+	(fp_line
+		(start 3 0)
+		(end 3 36)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "121da090-29ef-4856-aaac-e2e47770dae3")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 3 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "02c17bb6-fa47-4e21-be5e-af0faf2a5946")
+	)
+	(fp_circle
+		(center 0 36)
+		(end 3 36)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "0b1bffd4-0ab3-465d-835a-1566667332b4")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 18 0)
+		(layer "F.Fab")
+		(uuid "235d4c5e-478f-4f96-bd21-e4dfe7988cab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 36)
+		(size 6.5 6.5)
+		(drill 6.5)
+		(layers "*.Cu" "*.Mask")
+		(uuid "d98c1859-02bd-4658-a10c-416a3ea74253")
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 6 6)
+		(drill 3.75)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.041667)
+		(uuid "cf33d70a-5c0b-409c-a5dc-dc5242967bda")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_Wire.3dshapes/SolderWire-4sqmm_1x01_D3mm_OD6mm_Relief.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

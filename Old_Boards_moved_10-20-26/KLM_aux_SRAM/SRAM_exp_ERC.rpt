@@ -1,0 +1,387 @@
+ERC report (2026-09-22T13:14:38, Encoding UTF8)
+Report includes: Errors, Warnings, Exclusions
+
+***** Sheet /
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(66.04 mm, 96.52 mm): Symbol U2 Pin 5 [~SHDN, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(204.47 mm, 71.12 mm): Symbol U1 Pin 1 [A4, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(204.47 mm, 73.66 mm): Symbol U1 Pin 2 [A3, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(204.47 mm, 76.20 mm): Symbol U1 Pin 3 [A2, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(204.47 mm, 78.74 mm): Symbol U1 Pin 4 [A1, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(204.47 mm, 81.28 mm): Symbol U1 Pin 5 [A0, Input, Line]
+[power_pin_not_driven]: Input Power pin not driven by any Output Power pins
+    ; error
+    @(204.47 mm, 99.06 mm): Symbol U1 Pin 12 [VDD, Power input, Line]
+[pin_to_pin]: Pins of type Power output and Power output are connected
+    ; error
+    @(204.47 mm, 101.60 mm): Symbol U1 Pin 13 [VSS, Power output, Line]
+    @(245.11 mm, 99.06 mm): Symbol U1 Pin 37 [VSS, Power output, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(204.47 mm, 119.38 mm): Symbol U1 Pin 20 [A19, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(204.47 mm, 121.92 mm): Symbol U1 Pin 21 [A18, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(204.47 mm, 124.46 mm): Symbol U1 Pin 22 [A17, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(204.47 mm, 127.00 mm): Symbol U1 Pin 23 [A16, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(204.47 mm, 129.54 mm): Symbol U1 Pin 24 [A15, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(245.11 mm, 71.12 mm): Symbol U1 Pin 48 [A5, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(245.11 mm, 73.66 mm): Symbol U1 Pin 47 [A6, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(245.11 mm, 76.20 mm): Symbol U1 Pin 46 [A7, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(245.11 mm, 78.74 mm): Symbol U1 Pin 45 [A8, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(245.11 mm, 114.30 mm): Symbol U1 Pin 31 [A20, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(245.11 mm, 116.84 mm): Symbol U1 Pin 30 [A9, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(245.11 mm, 119.38 mm): Symbol U1 Pin 29 [A10, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(245.11 mm, 121.92 mm): Symbol U1 Pin 28 [A11, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(245.11 mm, 124.46 mm): Symbol U1 Pin 27 [A12, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(245.11 mm, 127.00 mm): Symbol U1 Pin 26 [A13, Input, Line]
+[pin_not_driven]: Input pin not driven by any Output pins
+    ; error
+    @(245.11 mm, 129.54 mm): Symbol U1 Pin 25 [A14, Input, Line]
+[lib_symbol_mismatch]: Symbol 'LT1963AES8-3.3PBF' doesn't match copy in library '1_My_kicad_symbols'
+    ; warning
+    @(53.34 mm, 92.71 mm): Symbol U2 [LT1963AES8-3.3PBF]
+[missing_unit]: Symbol J1 has unplaced units [ B ]
+    ; warning
+    @(111.76 mm, 41.91 mm): Symbol J1 [conn_80pin]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(111.76 mm, 41.91 mm): Symbol J1 Pin 1 [1, Unspecified, Line]
+    @(111.76 mm, 49.53 mm): Symbol J1 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(111.76 mm, 49.53 mm): Symbol J1 Pin 4 [4, Unspecified, Line]
+    @(111.76 mm, 57.15 mm): Symbol J1 Pin 7 [7, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(111.76 mm, 54.61 mm): Symbol J1 Pin 6 [6, Unspecified, Line]
+    @(50.80 mm, 53.34 mm): Symbol J3 Pin 9 [9, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(111.76 mm, 57.15 mm): Symbol J1 Pin 7 [7, Unspecified, Line]
+    @(111.76 mm, 64.77 mm): Symbol J1 Pin 10 [10, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(111.76 mm, 59.69 mm): Symbol J1 Pin 8 [8, Unspecified, Line]
+    @(50.80 mm, 38.10 mm): Symbol J3 Pin 3 [3, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(111.76 mm, 62.23 mm): Symbol J1 Pin 9 [9, Unspecified, Line]
+    @(50.80 mm, 55.88 mm): Symbol J3 Pin 10 [10, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(111.76 mm, 64.77 mm): Symbol J1 Pin 10 [10, Unspecified, Line]
+    @(111.76 mm, 72.39 mm): Symbol J1 Pin 13 [13, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(111.76 mm, 67.31 mm): Symbol J1 Pin 11 [11, Unspecified, Line]
+    @(50.80 mm, 40.64 mm): Symbol J3 Pin 4 [4, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(111.76 mm, 69.85 mm): Symbol J1 Pin 12 [12, Unspecified, Line]
+    @(50.80 mm, 58.42 mm): Symbol J3 Pin 11 [11, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(111.76 mm, 72.39 mm): Symbol J1 Pin 13 [13, Unspecified, Line]
+    @(111.76 mm, 80.01 mm): Symbol J1 Pin 16 [16, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(111.76 mm, 74.93 mm): Symbol J1 Pin 14 [14, Unspecified, Line]
+    @(50.80 mm, 43.18 mm): Symbol J3 Pin 5 [5, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(111.76 mm, 77.47 mm): Symbol J1 Pin 15 [15, Unspecified, Line]
+    @(50.80 mm, 60.96 mm): Symbol J3 Pin 12 [12, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(111.76 mm, 80.01 mm): Symbol J1 Pin 16 [16, Unspecified, Line]
+    @(111.76 mm, 82.55 mm): Symbol J1 Pin 17 [17, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(111.76 mm, 82.55 mm): Symbol J1 Pin 17 [17, Unspecified, Line]
+    @(111.76 mm, 85.09 mm): Symbol J1 Pin 18 [18, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(111.76 mm, 85.09 mm): Symbol J1 Pin 18 [18, Unspecified, Line]
+    @(111.76 mm, 87.63 mm): Symbol J1 Pin 19 [19, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(111.76 mm, 87.63 mm): Symbol J1 Pin 19 [19, Unspecified, Line]
+    @(111.76 mm, 95.25 mm): Symbol J1 Pin 22 [22, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(111.76 mm, 90.17 mm): Symbol J1 Pin 20 [20, Unspecified, Line]
+    @(245.11 mm, 71.12 mm): Symbol U1 Pin 48 [A5, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(111.76 mm, 92.71 mm): Symbol J1 Pin 21 [21, Unspecified, Line]
+    @(245.11 mm, 73.66 mm): Symbol U1 Pin 47 [A6, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(111.76 mm, 95.25 mm): Symbol J1 Pin 22 [22, Unspecified, Line]
+    @(111.76 mm, 102.87 mm): Symbol J1 Pin 25 [25, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(111.76 mm, 97.79 mm): Symbol J1 Pin 23 [23, Unspecified, Line]
+    @(245.11 mm, 76.20 mm): Symbol U1 Pin 46 [A7, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(111.76 mm, 100.33 mm): Symbol J1 Pin 24 [24, Unspecified, Line]
+    @(245.11 mm, 78.74 mm): Symbol U1 Pin 45 [A8, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(111.76 mm, 102.87 mm): Symbol J1 Pin 25 [25, Unspecified, Line]
+    @(111.76 mm, 110.49 mm): Symbol J1 Pin 28 [28, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(111.76 mm, 105.41 mm): Symbol J1 Pin 26 [26, Unspecified, Line]
+    @(111.76 mm, 173.99 mm): Symbol TP4 Pin 1 [1, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(111.76 mm, 107.95 mm): Symbol J1 Pin 27 [27, Unspecified, Line]
+    @(125.73 mm, 173.99 mm): Symbol TP5 Pin 1 [1, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(111.76 mm, 110.49 mm): Symbol J1 Pin 28 [28, Unspecified, Line]
+    @(111.76 mm, 118.11 mm): Symbol J1 Pin 31 [31, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(111.76 mm, 113.03 mm): Symbol J1 Pin 29 [29, Unspecified, Line]
+    @(139.70 mm, 173.99 mm): Symbol TP6 Pin 1 [1, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(111.76 mm, 115.57 mm): Symbol J1 Pin 30 [30, Unspecified, Line]
+    @(245.11 mm, 114.30 mm): Symbol U1 Pin 31 [A20, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(111.76 mm, 118.11 mm): Symbol J1 Pin 31 [31, Unspecified, Line]
+    @(111.76 mm, 125.73 mm): Symbol J1 Pin 34 [34, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(111.76 mm, 120.65 mm): Symbol J1 Pin 32 [32, Unspecified, Line]
+    @(245.11 mm, 116.84 mm): Symbol U1 Pin 30 [A9, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(111.76 mm, 123.19 mm): Symbol J1 Pin 33 [33, Unspecified, Line]
+    @(245.11 mm, 119.38 mm): Symbol U1 Pin 29 [A10, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(111.76 mm, 125.73 mm): Symbol J1 Pin 34 [34, Unspecified, Line]
+    @(111.76 mm, 133.35 mm): Symbol J1 Pin 37 [37, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(111.76 mm, 128.27 mm): Symbol J1 Pin 35 [35, Unspecified, Line]
+    @(245.11 mm, 121.92 mm): Symbol U1 Pin 28 [A11, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(111.76 mm, 130.81 mm): Symbol J1 Pin 36 [36, Unspecified, Line]
+    @(245.11 mm, 124.46 mm): Symbol U1 Pin 27 [A12, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(111.76 mm, 133.35 mm): Symbol J1 Pin 37 [37, Unspecified, Line]
+    @(111.76 mm, 140.97 mm): Symbol J1 Pin 40 [40, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(111.76 mm, 135.89 mm): Symbol J1 Pin 38 [38, Unspecified, Line]
+    @(245.11 mm, 127.00 mm): Symbol U1 Pin 26 [A13, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(111.76 mm, 138.43 mm): Symbol J1 Pin 39 [39, Unspecified, Line]
+    @(245.11 mm, 129.54 mm): Symbol U1 Pin 25 [A14, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Power input are connected
+    ; warning
+    @(111.76 mm, 140.97 mm): Symbol J1 Pin 40 [40, Unspecified, Line]
+    @(107.95 mm, 149.86 mm): Symbol #PWR01 Pin 1 [Power input, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(146.05 mm, 41.91 mm): Symbol J1 Pin 80 [80, Unspecified, Line]
+    @(198.12 mm, 35.56 mm): Symbol R2 Pin 2 [Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(146.05 mm, 49.53 mm): Symbol J1 Pin 77 [77, Unspecified, Line]
+    @(146.05 mm, 41.91 mm): Symbol J1 Pin 80 [80, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(146.05 mm, 57.15 mm): Symbol J1 Pin 74 [74, Unspecified, Line]
+    @(146.05 mm, 49.53 mm): Symbol J1 Pin 77 [77, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(146.05 mm, 59.69 mm): Symbol J1 Pin 73 [73, Unspecified, Line]
+    @(204.47 mm, 71.12 mm): Symbol U1 Pin 1 [A4, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(146.05 mm, 62.23 mm): Symbol J1 Pin 72 [72, Unspecified, Line]
+    @(204.47 mm, 73.66 mm): Symbol U1 Pin 2 [A3, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(146.05 mm, 64.77 mm): Symbol J1 Pin 71 [71, Unspecified, Line]
+    @(146.05 mm, 57.15 mm): Symbol J1 Pin 74 [74, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(146.05 mm, 67.31 mm): Symbol J1 Pin 70 [70, Unspecified, Line]
+    @(204.47 mm, 76.20 mm): Symbol U1 Pin 3 [A2, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(146.05 mm, 72.39 mm): Symbol J1 Pin 68 [68, Unspecified, Line]
+    @(146.05 mm, 64.77 mm): Symbol J1 Pin 71 [71, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(146.05 mm, 74.93 mm): Symbol J1 Pin 67 [67, Unspecified, Line]
+    @(204.47 mm, 78.74 mm): Symbol U1 Pin 4 [A1, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(146.05 mm, 77.47 mm): Symbol J1 Pin 66 [66, Unspecified, Line]
+    @(204.47 mm, 81.28 mm): Symbol U1 Pin 5 [A0, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(146.05 mm, 80.01 mm): Symbol J1 Pin 65 [65, Unspecified, Line]
+    @(146.05 mm, 72.39 mm): Symbol J1 Pin 68 [68, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(146.05 mm, 82.55 mm): Symbol J1 Pin 64 [64, Unspecified, Line]
+    @(177.80 mm, 74.93 mm): Symbol TP8 Pin 1 [1, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(146.05 mm, 85.09 mm): Symbol J1 Pin 63 [63, Unspecified, Line]
+    @(50.80 mm, 45.72 mm): Symbol J3 Pin 6 [6, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(146.05 mm, 87.63 mm): Symbol J1 Pin 62 [62, Unspecified, Line]
+    @(146.05 mm, 80.01 mm): Symbol J1 Pin 65 [65, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; warning
+    @(146.05 mm, 90.17 mm): Symbol J1 Pin 61 [61, Unspecified, Line]
+    @(204.47 mm, 88.90 mm): Symbol U1 Pin 8 [I/O0, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; warning
+    @(146.05 mm, 92.71 mm): Symbol J1 Pin 60 [60, Unspecified, Line]
+    @(204.47 mm, 91.44 mm): Symbol U1 Pin 9 [I/O1, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(146.05 mm, 95.25 mm): Symbol J1 Pin 59 [59, Unspecified, Line]
+    @(146.05 mm, 87.63 mm): Symbol J1 Pin 62 [62, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; warning
+    @(146.05 mm, 97.79 mm): Symbol J1 Pin 58 [58, Unspecified, Line]
+    @(204.47 mm, 93.98 mm): Symbol U1 Pin 10 [I/O2, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; warning
+    @(146.05 mm, 100.33 mm): Symbol J1 Pin 57 [57, Unspecified, Line]
+    @(204.47 mm, 96.52 mm): Symbol U1 Pin 11 [I/O3, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(146.05 mm, 102.87 mm): Symbol J1 Pin 56 [56, Unspecified, Line]
+    @(146.05 mm, 95.25 mm): Symbol J1 Pin 59 [59, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; warning
+    @(146.05 mm, 105.41 mm): Symbol J1 Pin 55 [55, Unspecified, Line]
+    @(204.47 mm, 104.14 mm): Symbol U1 Pin 14 [I/O4, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; warning
+    @(146.05 mm, 107.95 mm): Symbol J1 Pin 54 [54, Unspecified, Line]
+    @(204.47 mm, 106.68 mm): Symbol U1 Pin 15 [I/O5, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(146.05 mm, 110.49 mm): Symbol J1 Pin 53 [53, Unspecified, Line]
+    @(146.05 mm, 102.87 mm): Symbol J1 Pin 56 [56, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; warning
+    @(146.05 mm, 113.03 mm): Symbol J1 Pin 52 [52, Unspecified, Line]
+    @(204.47 mm, 109.22 mm): Symbol U1 Pin 16 [I/O6, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Bidirectional are connected
+    ; warning
+    @(146.05 mm, 115.57 mm): Symbol J1 Pin 51 [51, Unspecified, Line]
+    @(204.47 mm, 111.76 mm): Symbol U1 Pin 17 [I/O7, Bidirectional, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(146.05 mm, 118.11 mm): Symbol J1 Pin 50 [50, Unspecified, Line]
+    @(146.05 mm, 110.49 mm): Symbol J1 Pin 53 [53, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(146.05 mm, 120.65 mm): Symbol J1 Pin 49 [49, Unspecified, Line]
+    @(189.23 mm, 138.43 mm): Symbol TP7 Pin 1 [1, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(146.05 mm, 123.19 mm): Symbol J1 Pin 48 [48, Unspecified, Line]
+    @(204.47 mm, 119.38 mm): Symbol U1 Pin 20 [A19, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(146.05 mm, 125.73 mm): Symbol J1 Pin 47 [47, Unspecified, Line]
+    @(146.05 mm, 118.11 mm): Symbol J1 Pin 50 [50, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(146.05 mm, 128.27 mm): Symbol J1 Pin 46 [46, Unspecified, Line]
+    @(204.47 mm, 121.92 mm): Symbol U1 Pin 21 [A18, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(146.05 mm, 130.81 mm): Symbol J1 Pin 45 [45, Unspecified, Line]
+    @(204.47 mm, 124.46 mm): Symbol U1 Pin 22 [A17, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(146.05 mm, 133.35 mm): Symbol J1 Pin 44 [44, Unspecified, Line]
+    @(146.05 mm, 125.73 mm): Symbol J1 Pin 47 [47, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(146.05 mm, 135.89 mm): Symbol J1 Pin 43 [43, Unspecified, Line]
+    @(204.47 mm, 127.00 mm): Symbol U1 Pin 23 [A16, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Input are connected
+    ; warning
+    @(146.05 mm, 138.43 mm): Symbol J1 Pin 42 [42, Unspecified, Line]
+    @(204.47 mm, 129.54 mm): Symbol U1 Pin 24 [A15, Input, Line]
+[pin_to_pin]: Pins of type Unspecified and Unspecified are connected
+    ; warning
+    @(146.05 mm, 140.97 mm): Symbol J1 Pin 41 [41, Unspecified, Line]
+    @(146.05 mm, 133.35 mm): Symbol J1 Pin 44 [44, Unspecified, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(245.11 mm, 83.82 mm): Symbol U1 Pin 43 [UB#, Unspecified, Line]
+    @(125.73 mm, 173.99 mm): Symbol TP5 Pin 1 [1, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(245.11 mm, 86.36 mm): Symbol U1 Pin 42 [LB#, Unspecified, Line]
+    @(139.70 mm, 173.99 mm): Symbol TP6 Pin 1 [1, Passive, Line]
+
+ ** ERC messages: 100  Errors 24  Warnings 76
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
