@@ -36,7 +36,15 @@ Finalization:
 - Feed prototype results back into the board designs
 - Help finalize assembly procedures ahead of the production run
 
-Current files are in `Finalized-Boards/`. Earlier editions of the boards are kept as git tags instead of folders. Each tag is the date of the edition followed by a short description:
+Current files are in `Finalized-Boards/`. The SRAM card comes in three versions that share one outline and connector layout:
+
+| Folder | Version |
+| --- | --- |
+| `KLM_aux_SRAM` | Standard card |
+| `KLM_aux_SRAM_resistor` | Adds a 1 ohm current-sense resistor (R3) and two wire pads, so the supply current can be read with a meter (1 mV = 1 mA) |
+| `KLM_aux_SRAM_INA226` | As above, plus an INA226 current monitor read over I2C on spare lines 0 and 2 |
+
+Editions of the boards are kept as git tags instead of folders. Each tag is the date of the edition followed by a short description:
 
 | Tag | Edition |
 | --- | --- |
@@ -45,6 +53,7 @@ Current files are in `Finalized-Boards/`. Earlier editions of the boards are kep
 | `2026-09-17-polyswitch-1.1A` | Second review applied, with the lab-stock 1.1 A polyswitches |
 | `2026-09-22-version-2` | Third review applied, polyswitches sized to the load; the boards built in October 2026 |
 | `2026-10-20-old-board-folders` | Last commit that still had the `Old_Boards_Moved_<M-D-YY>/` folders, including the original boards as received |
+| `2026-11-16-version-3` | Hand-soldering revision: longer pads, re-spaced wire pads and fuses, fanout mounting hole, three SRAM versions (current) |
 
 To see an edition, pick its tag in the branch menu on GitHub and browse or download the files.
 

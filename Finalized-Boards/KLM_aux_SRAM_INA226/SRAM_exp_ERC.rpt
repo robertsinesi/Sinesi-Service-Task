@@ -1,0 +1,18 @@
+ERC report (2026-11-16T00:40:04, Encoding UTF8)
+Report includes: Errors, Warnings, Exclusions
+
+***** Sheet /
+[lib_symbol_mismatch]: Symbol 'LT1963AES8-3.3PBF' doesn't match copy in library '1_My_kicad_symbols'
+    ; warning
+    @(53.34 mm, 92.71 mm): Symbol U2 [LT1963AES8-3.3PBF]
+[missing_unit]: Symbol J1 has unplaced units [ B ]
+    ; warning
+    @(111.76 mm, 41.91 mm): Symbol J1 [conn_80pin]
+
+ ** ERC messages: 2  Errors 0  Warnings 2
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters

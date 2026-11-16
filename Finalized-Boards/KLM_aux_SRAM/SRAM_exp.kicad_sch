@@ -384,7 +384,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at 0 -30.48 0)
 					(length 7.62)
 					(name "VSS"
@@ -816,7 +816,7 @@
 						)
 					)
 				)
-				(pin power_out line
+				(pin power_in line
 					(at 40.64 -27.94 180)
 					(length 7.62)
 					(name "VSS"
@@ -906,7 +906,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at 40.64 -15.24 180)
 					(length 7.62)
 					(name "LB#"
@@ -924,7 +924,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin input line
 					(at 40.64 -12.7 180)
 					(length 7.62)
 					(name "UB#"
@@ -1170,7 +1170,7 @@
 						(type background)
 					)
 				)
-				(pin output line
+				(pin power_out line
 					(at -12.7 3.81 0)
 					(length 5.08)
 					(name "OUT"
@@ -4358,7 +4358,7 @@
 						(type none)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 0 0)
 					(length 5.08)
 					(name "1"
@@ -4376,7 +4376,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -2.54 0)
 					(length 5.08)
 					(name "2"
@@ -4394,7 +4394,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -5.08 0)
 					(length 5.08)
 					(name "3"
@@ -4412,7 +4412,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -7.62 0)
 					(length 5.08)
 					(name "4"
@@ -4430,7 +4430,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -10.16 0)
 					(length 5.08)
 					(name "5"
@@ -4448,7 +4448,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -12.7 0)
 					(length 5.08)
 					(name "6"
@@ -4466,7 +4466,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -15.24 0)
 					(length 5.08)
 					(name "7"
@@ -4484,7 +4484,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -17.78 0)
 					(length 5.08)
 					(name "8"
@@ -4502,7 +4502,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -20.32 0)
 					(length 5.08)
 					(name "9"
@@ -4520,7 +4520,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -22.86 0)
 					(length 5.08)
 					(name "10"
@@ -4538,7 +4538,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -25.4 0)
 					(length 5.08)
 					(name "11"
@@ -4556,7 +4556,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -27.94 0)
 					(length 5.08)
 					(name "12"
@@ -4574,7 +4574,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -30.48 0)
 					(length 5.08)
 					(name "13"
@@ -4592,7 +4592,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -33.02 0)
 					(length 5.08)
 					(name "14"
@@ -4610,7 +4610,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -35.56 0)
 					(length 5.08)
 					(name "15"
@@ -4628,7 +4628,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -38.1 0)
 					(length 5.08)
 					(name "16"
@@ -4646,7 +4646,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -40.64 0)
 					(length 5.08)
 					(name "17"
@@ -4664,7 +4664,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -43.18 0)
 					(length 5.08)
 					(name "18"
@@ -4682,7 +4682,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -45.72 0)
 					(length 5.08)
 					(name "19"
@@ -4700,7 +4700,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -48.26 0)
 					(length 5.08)
 					(name "20"
@@ -4718,7 +4718,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -50.8 0)
 					(length 5.08)
 					(name "21"
@@ -4736,7 +4736,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -53.34 0)
 					(length 5.08)
 					(name "22"
@@ -4754,7 +4754,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -55.88 0)
 					(length 5.08)
 					(name "23"
@@ -4772,7 +4772,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -58.42 0)
 					(length 5.08)
 					(name "24"
@@ -4790,7 +4790,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -60.96 0)
 					(length 5.08)
 					(name "25"
@@ -4808,7 +4808,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -63.5 0)
 					(length 5.08)
 					(name "26"
@@ -4826,7 +4826,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -66.04 0)
 					(length 5.08)
 					(name "27"
@@ -4844,7 +4844,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -68.58 0)
 					(length 5.08)
 					(name "28"
@@ -4862,7 +4862,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -71.12 0)
 					(length 5.08)
 					(name "29"
@@ -4880,7 +4880,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -73.66 0)
 					(length 5.08)
 					(name "30"
@@ -4898,7 +4898,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -76.2 0)
 					(length 5.08)
 					(name "31"
@@ -4916,7 +4916,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -78.74 0)
 					(length 5.08)
 					(name "32"
@@ -4934,7 +4934,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -81.28 0)
 					(length 5.08)
 					(name "33"
@@ -4952,7 +4952,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -83.82 0)
 					(length 5.08)
 					(name "34"
@@ -4970,7 +4970,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -86.36 0)
 					(length 5.08)
 					(name "35"
@@ -4988,7 +4988,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -88.9 0)
 					(length 5.08)
 					(name "36"
@@ -5006,7 +5006,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -91.44 0)
 					(length 5.08)
 					(name "37"
@@ -5024,7 +5024,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -93.98 0)
 					(length 5.08)
 					(name "38"
@@ -5042,7 +5042,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -96.52 0)
 					(length 5.08)
 					(name "39"
@@ -5060,7 +5060,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -99.06 0)
 					(length 5.08)
 					(name "40"
@@ -5078,7 +5078,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -99.06 180)
 					(length 5.08)
 					(name "41"
@@ -5096,7 +5096,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -96.52 180)
 					(length 5.08)
 					(name "42"
@@ -5114,7 +5114,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -93.98 180)
 					(length 5.08)
 					(name "43"
@@ -5132,7 +5132,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -91.44 180)
 					(length 5.08)
 					(name "44"
@@ -5150,7 +5150,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -88.9 180)
 					(length 5.08)
 					(name "45"
@@ -5168,7 +5168,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -86.36 180)
 					(length 5.08)
 					(name "46"
@@ -5186,7 +5186,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -83.82 180)
 					(length 5.08)
 					(name "47"
@@ -5204,7 +5204,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -81.28 180)
 					(length 5.08)
 					(name "48"
@@ -5222,7 +5222,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -78.74 180)
 					(length 5.08)
 					(name "49"
@@ -5240,7 +5240,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -76.2 180)
 					(length 5.08)
 					(name "50"
@@ -5258,7 +5258,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -73.66 180)
 					(length 5.08)
 					(name "51"
@@ -5276,7 +5276,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -71.12 180)
 					(length 5.08)
 					(name "52"
@@ -5294,7 +5294,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -68.58 180)
 					(length 5.08)
 					(name "53"
@@ -5312,7 +5312,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -66.04 180)
 					(length 5.08)
 					(name "54"
@@ -5330,7 +5330,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -63.5 180)
 					(length 5.08)
 					(name "55"
@@ -5348,7 +5348,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -60.96 180)
 					(length 5.08)
 					(name "56"
@@ -5366,7 +5366,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -58.42 180)
 					(length 5.08)
 					(name "57"
@@ -5384,7 +5384,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -55.88 180)
 					(length 5.08)
 					(name "58"
@@ -5402,7 +5402,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -53.34 180)
 					(length 5.08)
 					(name "59"
@@ -5420,7 +5420,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -50.8 180)
 					(length 5.08)
 					(name "60"
@@ -5438,7 +5438,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -48.26 180)
 					(length 5.08)
 					(name "61"
@@ -5456,7 +5456,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -45.72 180)
 					(length 5.08)
 					(name "62"
@@ -5474,7 +5474,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -43.18 180)
 					(length 5.08)
 					(name "63"
@@ -5492,7 +5492,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -40.64 180)
 					(length 5.08)
 					(name "64"
@@ -5510,7 +5510,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -38.1 180)
 					(length 5.08)
 					(name "65"
@@ -5528,7 +5528,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -35.56 180)
 					(length 5.08)
 					(name "66"
@@ -5546,7 +5546,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -33.02 180)
 					(length 5.08)
 					(name "67"
@@ -5564,7 +5564,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -30.48 180)
 					(length 5.08)
 					(name "68"
@@ -5582,7 +5582,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -27.94 180)
 					(length 5.08)
 					(name "69"
@@ -5600,7 +5600,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -25.4 180)
 					(length 5.08)
 					(name "70"
@@ -5618,7 +5618,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -22.86 180)
 					(length 5.08)
 					(name "71"
@@ -5636,7 +5636,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -20.32 180)
 					(length 5.08)
 					(name "72"
@@ -5654,7 +5654,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -17.78 180)
 					(length 5.08)
 					(name "73"
@@ -5672,7 +5672,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -15.24 180)
 					(length 5.08)
 					(name "74"
@@ -5690,7 +5690,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -12.7 180)
 					(length 5.08)
 					(name "75"
@@ -5708,7 +5708,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -10.16 180)
 					(length 5.08)
 					(name "76"
@@ -5726,7 +5726,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -7.62 180)
 					(length 5.08)
 					(name "77"
@@ -5744,7 +5744,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -5.08 180)
 					(length 5.08)
 					(name "78"
@@ -5762,7 +5762,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 -2.54 180)
 					(length 5.08)
 					(name "79"
@@ -5780,7 +5780,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 34.29 0 180)
 					(length 5.08)
 					(name "80"
@@ -7288,7 +7288,7 @@
 						(type none)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 0 0)
 					(length 5.08)
 					(name "1"
@@ -7306,7 +7306,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -2.54 0)
 					(length 5.08)
 					(name "2"
@@ -7324,7 +7324,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -5.08 0)
 					(length 5.08)
 					(name "3"
@@ -7342,7 +7342,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -7.62 0)
 					(length 5.08)
 					(name "4"
@@ -7360,7 +7360,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -10.16 0)
 					(length 5.08)
 					(name "5"
@@ -7378,7 +7378,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -12.7 0)
 					(length 5.08)
 					(name "6"
@@ -7396,7 +7396,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -15.24 0)
 					(length 5.08)
 					(name "7"
@@ -7414,7 +7414,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -17.78 0)
 					(length 5.08)
 					(name "8"
@@ -7432,7 +7432,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -20.32 0)
 					(length 5.08)
 					(name "9"
@@ -7450,7 +7450,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -22.86 0)
 					(length 5.08)
 					(name "10"
@@ -7468,7 +7468,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -25.4 0)
 					(length 5.08)
 					(name "11"
@@ -7486,7 +7486,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -27.94 0)
 					(length 5.08)
 					(name "12"
@@ -7504,7 +7504,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -30.48 0)
 					(length 5.08)
 					(name "13"
@@ -7522,7 +7522,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -33.02 0)
 					(length 5.08)
 					(name "14"
@@ -7540,7 +7540,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -35.56 0)
 					(length 5.08)
 					(name "15"
@@ -7558,7 +7558,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -38.1 0)
 					(length 5.08)
 					(name "16"
@@ -7576,7 +7576,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -40.64 0)
 					(length 5.08)
 					(name "17"
@@ -7594,7 +7594,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -43.18 0)
 					(length 5.08)
 					(name "18"
@@ -7612,7 +7612,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -45.72 0)
 					(length 5.08)
 					(name "19"
@@ -7630,7 +7630,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -48.26 0)
 					(length 5.08)
 					(name "20"
@@ -7648,7 +7648,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -50.8 0)
 					(length 5.08)
 					(name "21"
@@ -7666,7 +7666,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -53.34 0)
 					(length 5.08)
 					(name "22"
@@ -7684,7 +7684,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -55.88 0)
 					(length 5.08)
 					(name "23"
@@ -7702,7 +7702,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -58.42 0)
 					(length 5.08)
 					(name "24"
@@ -7720,7 +7720,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -60.96 0)
 					(length 5.08)
 					(name "25"
@@ -7738,7 +7738,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -63.5 0)
 					(length 5.08)
 					(name "26"
@@ -7756,7 +7756,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -66.04 0)
 					(length 5.08)
 					(name "27"
@@ -7774,7 +7774,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -68.58 0)
 					(length 5.08)
 					(name "28"
@@ -7792,7 +7792,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -71.12 0)
 					(length 5.08)
 					(name "29"
@@ -7810,7 +7810,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -73.66 0)
 					(length 5.08)
 					(name "30"
@@ -7828,7 +7828,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -76.2 0)
 					(length 5.08)
 					(name "31"
@@ -7846,7 +7846,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -78.74 0)
 					(length 5.08)
 					(name "32"
@@ -7864,7 +7864,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -81.28 0)
 					(length 5.08)
 					(name "33"
@@ -7882,7 +7882,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -83.82 0)
 					(length 5.08)
 					(name "34"
@@ -7900,7 +7900,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -86.36 0)
 					(length 5.08)
 					(name "35"
@@ -7918,7 +7918,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -88.9 0)
 					(length 5.08)
 					(name "36"
@@ -7936,7 +7936,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -91.44 0)
 					(length 5.08)
 					(name "37"
@@ -7954,7 +7954,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -93.98 0)
 					(length 5.08)
 					(name "38"
@@ -7972,7 +7972,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -96.52 0)
 					(length 5.08)
 					(name "39"
@@ -7990,7 +7990,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -99.06 0)
 					(length 5.08)
 					(name "40"
@@ -9498,7 +9498,7 @@
 						(type none)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 0 0)
 					(length 5.08)
 					(name "41"
@@ -9516,7 +9516,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -2.54 0)
 					(length 5.08)
 					(name "42"
@@ -9534,7 +9534,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -5.08 0)
 					(length 5.08)
 					(name "43"
@@ -9552,7 +9552,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -7.62 0)
 					(length 5.08)
 					(name "44"
@@ -9570,7 +9570,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -10.16 0)
 					(length 5.08)
 					(name "45"
@@ -9588,7 +9588,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -12.7 0)
 					(length 5.08)
 					(name "46"
@@ -9606,7 +9606,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -15.24 0)
 					(length 5.08)
 					(name "47"
@@ -9624,7 +9624,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -17.78 0)
 					(length 5.08)
 					(name "48"
@@ -9642,7 +9642,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -20.32 0)
 					(length 5.08)
 					(name "49"
@@ -9660,7 +9660,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -22.86 0)
 					(length 5.08)
 					(name "50"
@@ -9678,7 +9678,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -25.4 0)
 					(length 5.08)
 					(name "51"
@@ -9696,7 +9696,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -27.94 0)
 					(length 5.08)
 					(name "52"
@@ -9714,7 +9714,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -30.48 0)
 					(length 5.08)
 					(name "53"
@@ -9732,7 +9732,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -33.02 0)
 					(length 5.08)
 					(name "54"
@@ -9750,7 +9750,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -35.56 0)
 					(length 5.08)
 					(name "55"
@@ -9768,7 +9768,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -38.1 0)
 					(length 5.08)
 					(name "56"
@@ -9786,7 +9786,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -40.64 0)
 					(length 5.08)
 					(name "57"
@@ -9804,7 +9804,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -43.18 0)
 					(length 5.08)
 					(name "58"
@@ -9822,7 +9822,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -45.72 0)
 					(length 5.08)
 					(name "59"
@@ -9840,7 +9840,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -48.26 0)
 					(length 5.08)
 					(name "60"
@@ -9858,7 +9858,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -50.8 0)
 					(length 5.08)
 					(name "61"
@@ -9876,7 +9876,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -53.34 0)
 					(length 5.08)
 					(name "62"
@@ -9894,7 +9894,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -55.88 0)
 					(length 5.08)
 					(name "63"
@@ -9912,7 +9912,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -58.42 0)
 					(length 5.08)
 					(name "64"
@@ -9930,7 +9930,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -60.96 0)
 					(length 5.08)
 					(name "65"
@@ -9948,7 +9948,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -63.5 0)
 					(length 5.08)
 					(name "66"
@@ -9966,7 +9966,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -66.04 0)
 					(length 5.08)
 					(name "67"
@@ -9984,7 +9984,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -68.58 0)
 					(length 5.08)
 					(name "68"
@@ -10002,7 +10002,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -71.12 0)
 					(length 5.08)
 					(name "69"
@@ -10020,7 +10020,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -73.66 0)
 					(length 5.08)
 					(name "70"
@@ -10038,7 +10038,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -76.2 0)
 					(length 5.08)
 					(name "71"
@@ -10056,7 +10056,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -78.74 0)
 					(length 5.08)
 					(name "72"
@@ -10074,7 +10074,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -81.28 0)
 					(length 5.08)
 					(name "73"
@@ -10092,7 +10092,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -83.82 0)
 					(length 5.08)
 					(name "74"
@@ -10110,7 +10110,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -86.36 0)
 					(length 5.08)
 					(name "75"
@@ -10128,7 +10128,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -88.9 0)
 					(length 5.08)
 					(name "76"
@@ -10146,7 +10146,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -91.44 0)
 					(length 5.08)
 					(name "77"
@@ -10164,7 +10164,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -93.98 0)
 					(length 5.08)
 					(name "78"
@@ -10182,7 +10182,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -96.52 0)
 					(length 5.08)
 					(name "79"
@@ -10200,7 +10200,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -99.06 0)
 					(length 5.08)
 					(name "80"
@@ -11708,7 +11708,7 @@
 						(type none)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 0 0)
 					(length 5.08)
 					(name "41"
@@ -11726,7 +11726,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -2.54 0)
 					(length 5.08)
 					(name "42"
@@ -11744,7 +11744,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -5.08 0)
 					(length 5.08)
 					(name "43"
@@ -11762,7 +11762,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -7.62 0)
 					(length 5.08)
 					(name "44"
@@ -11780,7 +11780,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -10.16 0)
 					(length 5.08)
 					(name "45"
@@ -11798,7 +11798,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -12.7 0)
 					(length 5.08)
 					(name "46"
@@ -11816,7 +11816,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -15.24 0)
 					(length 5.08)
 					(name "47"
@@ -11834,7 +11834,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -17.78 0)
 					(length 5.08)
 					(name "48"
@@ -11852,7 +11852,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -20.32 0)
 					(length 5.08)
 					(name "49"
@@ -11870,7 +11870,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -22.86 0)
 					(length 5.08)
 					(name "50"
@@ -11888,7 +11888,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -25.4 0)
 					(length 5.08)
 					(name "51"
@@ -11906,7 +11906,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -27.94 0)
 					(length 5.08)
 					(name "52"
@@ -11924,7 +11924,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -30.48 0)
 					(length 5.08)
 					(name "53"
@@ -11942,7 +11942,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -33.02 0)
 					(length 5.08)
 					(name "54"
@@ -11960,7 +11960,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -35.56 0)
 					(length 5.08)
 					(name "55"
@@ -11978,7 +11978,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -38.1 0)
 					(length 5.08)
 					(name "56"
@@ -11996,7 +11996,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -40.64 0)
 					(length 5.08)
 					(name "57"
@@ -12014,7 +12014,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -43.18 0)
 					(length 5.08)
 					(name "58"
@@ -12032,7 +12032,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -45.72 0)
 					(length 5.08)
 					(name "59"
@@ -12050,7 +12050,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -48.26 0)
 					(length 5.08)
 					(name "60"
@@ -12068,7 +12068,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -50.8 0)
 					(length 5.08)
 					(name "61"
@@ -12086,7 +12086,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -53.34 0)
 					(length 5.08)
 					(name "62"
@@ -12104,7 +12104,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -55.88 0)
 					(length 5.08)
 					(name "63"
@@ -12122,7 +12122,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -58.42 0)
 					(length 5.08)
 					(name "64"
@@ -12140,7 +12140,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -60.96 0)
 					(length 5.08)
 					(name "65"
@@ -12158,7 +12158,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -63.5 0)
 					(length 5.08)
 					(name "66"
@@ -12176,7 +12176,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -66.04 0)
 					(length 5.08)
 					(name "67"
@@ -12194,7 +12194,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -68.58 0)
 					(length 5.08)
 					(name "68"
@@ -12212,7 +12212,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -71.12 0)
 					(length 5.08)
 					(name "69"
@@ -12230,7 +12230,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -73.66 0)
 					(length 5.08)
 					(name "70"
@@ -12248,7 +12248,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -76.2 0)
 					(length 5.08)
 					(name "71"
@@ -12266,7 +12266,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -78.74 0)
 					(length 5.08)
 					(name "72"
@@ -12284,7 +12284,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -81.28 0)
 					(length 5.08)
 					(name "73"
@@ -12302,7 +12302,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -83.82 0)
 					(length 5.08)
 					(name "74"
@@ -12320,7 +12320,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -86.36 0)
 					(length 5.08)
 					(name "75"
@@ -12338,7 +12338,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -88.9 0)
 					(length 5.08)
 					(name "76"
@@ -12356,7 +12356,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -91.44 0)
 					(length 5.08)
 					(name "77"
@@ -12374,7 +12374,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -93.98 0)
 					(length 5.08)
 					(name "78"
@@ -12392,7 +12392,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -96.52 0)
 					(length 5.08)
 					(name "79"
@@ -12410,7 +12410,7 @@
 						)
 					)
 				)
-				(pin unspecified line
+				(pin passive line
 					(at 0 -99.06 0)
 					(length 5.08)
 					(name "80"
@@ -13102,13 +13102,12 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Device:C_Polarized_US"
+		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
 			)
 			(pin_names
 				(offset 0.254)
-				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -13126,7 +13125,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "C_Polarized_US"
+			(property "Value" "C"
 				(at 0.635 -2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -13138,7 +13137,7 @@
 				)
 			)
 			(property "Footprint" ""
-				(at 0 0 0)
+				(at 0.9652 -3.81 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -13159,7 +13158,7 @@
 					)
 				)
 			)
-			(property "Description" "Polarized capacitor, US symbol"
+			(property "Description" "Unpolarized capacitor"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -13181,7 +13180,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "CP_*"
+			(property "ki_fp_filters" "C_*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -13192,7 +13191,7 @@
 					)
 				)
 			)
-			(symbol "C_Polarized_US_0_1"
+			(symbol "C_0_1"
 				(polyline
 					(pts
 						(xy -2.032 0.762) (xy 2.032 0.762)
@@ -13207,32 +13206,8 @@
 				)
 				(polyline
 					(pts
-						(xy -1.778 2.286) (xy -0.762 2.286)
+						(xy -2.032 -0.762) (xy 2.032 -0.762)
 					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.27 1.778) (xy -1.27 2.794)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -2.032 -1.27)
-					(mid 0 -0.5572)
-					(end 2.032 -1.27)
 					(stroke
 						(width 0.508)
 						(type default)
@@ -13242,7 +13217,7 @@
 					)
 				)
 			)
-			(symbol "C_Polarized_US_1_1"
+			(symbol "C_1_1"
 				(pin passive line
 					(at 0 3.81 270)
 					(length 2.794)
@@ -13263,7 +13238,7 @@
 				)
 				(pin passive line
 					(at 0 -3.81 90)
-					(length 3.302)
+					(length 2.794)
 					(name ""
 						(effects
 							(font
@@ -14090,6 +14065,121 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:PWR_FLAG"
+			(power global)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "#FLG"
+				(at 0 1.905 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "PWR_FLAG"
+				(at 0 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Special symbol for telling ERC where power comes from"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "flag power"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_0"
+				(pin power_out line
+					(at 0 0 90)
+					(length 0)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "PWR_FLAG_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27) (xy -1.016 1.905) (xy 0 2.54) (xy 1.016 1.905) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+5V"
 			(power global)
 			(pin_numbers
@@ -14431,7 +14521,17 @@
 		)
 		(uuid "9a83cc26-d15c-4da7-a12a-f4e5ca70fb53")
 	)
-	(text "Vfwd = 1.9 V\nI = 1.07 mA, P = 1.5 mW"
+	(text "≈ 2.5 V"
+		(exclude_from_sim no)
+		(at 182.88 39.37 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "79ba8475-2ead-43aa-85a5-affa9e66e2ab")
+	)
+	(text "Vfwd = 1.9 V\nI = 1.4 mA, P = 2.0 mW"
 		(exclude_from_sim no)
 		(at 243.078 24.638 0)
 		(effects
@@ -15526,6 +15626,37 @@
 			(type default)
 		)
 		(uuid "fdfd3350-4b00-49fb-9408-21efcac5d517")
+	)
+	(text "Power flags (for the rules check)"
+		(exclude_from_sim no)
+		(at 135.89 182.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8d4ff42b-1902-4a27-9533-7fe159d142c6")
+	)
+	(wire
+		(pts
+			(xy 137.16 193.04) (xy 142.24 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a54abca3-ce4d-4c24-937e-e620133f9a29")
+	)
+	(wire
+		(pts
+			(xy 149.86 193.04) (xy 154.94 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "851bd614-489c-4070-84d9-33f31c915759")
 	)
 	(wire
 		(pts
@@ -22249,7 +22380,7 @@
 				)
 			)
 		)
-		(property "Value" "1.3k"
+		(property "Value" "1k"
 			(at 236.22 31.75 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22467,7 +22598,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized_US")
+		(lib_id "Device:C")
 		(at 78.74 92.71 0)
 		(unit 1)
 		(body_style 1)
@@ -22479,7 +22610,7 @@
 		(fields_autoplaced yes)
 		(uuid "ac74c06d-e2ce-405b-9390-e36006a13037")
 		(property "Reference" "C4"
-			(at 82.55 90.8049 0)
+			(at 82.55 91.4399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22490,7 +22621,7 @@
 			)
 		)
 		(property "Value" "100u"
-			(at 82.55 93.3449 0)
+			(at 82.55 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22500,8 +22631,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 78.74 92.71 0)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+			(at 79.7052 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22522,7 +22653,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor, US symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 78.74 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -22659,7 +22790,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 256.54 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -22976,7 +23107,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 182.88 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -23877,7 +24008,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized_US")
+		(lib_id "Device:C")
 		(at 26.67 92.71 0)
 		(unit 1)
 		(body_style 1)
@@ -23889,7 +24020,7 @@
 		(fields_autoplaced yes)
 		(uuid "fa8bd692-1665-423a-b06c-494417039a25")
 		(property "Reference" "C3"
-			(at 30.48 90.8049 0)
+			(at 30.48 91.4399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23900,7 +24031,7 @@
 			)
 		)
 		(property "Value" "100u"
-			(at 30.48 93.3449 0)
+			(at 30.48 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23910,8 +24041,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 26.67 92.71 0)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+			(at 27.6352 96.52 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23932,7 +24063,7 @@
 				)
 			)
 		)
-		(property "Description" "Polarized capacitor, US symbol"
+		(property "Description" "Unpolarized capacitor"
 			(at 26.67 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -24032,6 +24163,317 @@
 			(project "SRAM_exp"
 				(path "/59493f99-3e6e-4fa8-bb36-be3f5195ff76"
 					(reference "TP5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 137.16 193.04 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "279bcecf-6233-47e7-ad7b-3289d474da4c")
+		(property "Reference" "#PWR050"
+			(at 137.16 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 137.16 187.96 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 137.16 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 137.16 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ae07c977-b71f-412d-9e4f-ca0d1ccff3e2")
+		)
+		(instances
+			(project "SRAM_exp"
+				(path "/59493f99-3e6e-4fa8-bb36-be3f5195ff76"
+					(reference "#PWR050")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 142.24 193.04 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "343a58c4-3ac0-4552-901a-2fe52ea4224c")
+		(property "Reference" "#FLG01"
+			(at 142.24 191.135 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 142.24 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 142.24 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.24 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 142.24 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "48cf6535-1e4f-48a0-a8a6-46a62f47760a")
+		)
+		(instances
+			(project "SRAM_exp"
+				(path "/59493f99-3e6e-4fa8-bb36-be3f5195ff76"
+					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:Earth")
+		(at 149.86 193.04 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6c94b837-3bf5-46d0-a5c6-aebd85e0a902")
+		(property "Reference" "#PWR051"
+			(at 149.86 199.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 149.86 196.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 149.86 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 149.86 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 149.86 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "5398c68f-e598-4512-95ff-8def02027a7c")
+		)
+		(instances
+			(project "SRAM_exp"
+				(path "/59493f99-3e6e-4fa8-bb36-be3f5195ff76"
+					(reference "#PWR051")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 154.94 193.04 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "13041e7f-0eed-45cc-9d8b-971b5591a79a")
+		(property "Reference" "#FLG02"
+			(at 154.94 191.135 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 154.94 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 154.94 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 154.94 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 154.94 193.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c7d77db3-b028-4b9d-86db-f5c856842948")
+		)
+		(instances
+			(project "SRAM_exp"
+				(path "/59493f99-3e6e-4fa8-bb36-be3f5195ff76"
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
