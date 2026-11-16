@@ -14591,14 +14591,14 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "+5V\nIN"
-		(at 101.95 122.85 0)
+	(gr_text "+5V"
+		(at 102.35 122 0)
 		(layer "F.SilkS")
 		(uuid "c1b8a48b-b4cb-499b-b77e-ca763b74fcec")
 		(effects
 			(font
-				(size 1.05 1.05)
-				(thickness 0.16)
+				(size 1 1)
+				(thickness 0.15)
 			)
 		)
 	)
