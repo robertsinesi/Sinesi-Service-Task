@@ -36,7 +36,17 @@ Finalization:
 - Feed prototype results back into the board designs
 - Help finalize assembly procedures ahead of the production run
 
-Superseded board revisions are kept in the `Old_Boards_Moved_<M-D-YY>/` folders (dated by when they were superseded, each with a short README); current files are in `Finalized-Boards/`.
+Current files are in `Finalized-Boards/`. Earlier editions of the boards are kept as git tags instead of folders. Each tag is the date of the edition followed by a short description:
+
+| Tag | Edition |
+| --- | --- |
+| `2026-08-28-before-first-review` | Boards before the first design review |
+| `2026-09-16-first-review-applied` | First review and its follow-up applied |
+| `2026-09-17-polyswitch-1.1A` | Second review applied, with the lab-stock 1.1 A polyswitches |
+| `2026-09-22-version-2` | Third review applied, polyswitches sized to the load; the boards built in October 2026 |
+| `2026-10-20-old-board-folders` | Last commit that still had the `Old_Boards_Moved_<M-D-YY>/` folders, including the original boards as received |
+
+To see an edition, pick its tag in the branch menu on GitHub and browse or download the files.
 
 ## Deliverable
 
