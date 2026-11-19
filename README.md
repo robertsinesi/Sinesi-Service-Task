@@ -42,7 +42,7 @@ Current files are in `Finalized-Boards/`. The SRAM card comes in three versions 
 | --- | --- |
 | `KLM_aux_SRAM` | Standard card |
 | `KLM_aux_SRAM_resistor` | Adds a 1 ohm current-sense resistor (R3) and two wire pads, so the supply current can be read with a meter (1 mV = 1 mA) |
-| `KLM_aux_SRAM_INA226` | As above, plus an INA226 current monitor read over I2C on spare lines 0 and 2 |
+| `KLM_aux_SRAM_INA226` | Standard card plus a 1 ohm current-sense resistor (R3, no wire pads) and an INA226 current monitor, read over I2C on spare lines 0 and 2 |
 
 Editions of the boards are kept as git tags instead of folders. Each tag is the date of the edition followed by a short description:
 

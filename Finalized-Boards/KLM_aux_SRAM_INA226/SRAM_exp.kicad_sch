@@ -15914,7 +15914,7 @@
 			)
 			(justify left)
 		)
-		(uuid "815d6539-7b7f-4985-8392-bc482f0f042b")
+		(uuid "891b31d2-8da6-40ef-bf9f-8cbfd54d6964")
 	)
 	(wire
 		(pts
@@ -15924,7 +15924,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "c5a45652-bf3a-4283-9bfd-bca4bb8d2d79")
+		(uuid "f38e2f69-c5d5-44aa-876e-2761467be2e4")
 	)
 	(wire
 		(pts
@@ -15934,7 +15934,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "a33cbea6-a423-4e89-86af-1907c2634323")
+		(uuid "4f5a124e-c764-40c4-ac8b-ec7be4d65376")
 	)
 	(wire
 		(pts
@@ -18824,27 +18824,17 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "75c9fe03-2f9e-4f1f-9c73-665b42235663")
+		(uuid "d0f26e35-336d-4b91-b843-abad836b0bda")
 	)
 	(wire
 		(pts
-			(xy 40.64 113.03) (xy 53.34 113.03)
+			(xy 40.64 113.03) (xy 66.04 113.03)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5d552a07-6205-432b-ba1b-b70aba4d97ee")
-	)
-	(wire
-		(pts
-			(xy 53.34 113.03) (xy 66.04 113.03)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d4d867d-24bf-487f-a63d-00009a6b4d20")
+		(uuid "43627630-08ad-4348-9655-2b26820656ac")
 	)
 	(wire
 		(pts
@@ -18854,19 +18844,13 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "b61514de-5c42-4d30-a5e6-dc3087a6987a")
+		(uuid "f753ff11-e53d-49a9-a32c-96d0a887f2b3")
 	)
 	(junction
 		(at 40.64 113.03)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "f6ca0c3c-b200-4471-b84e-ff45dedda768")
-	)
-	(junction
-		(at 53.34 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "39eca457-d355-410d-a8e4-b401fe3beab6")
+		(uuid "d722d357-88f4-4654-8bab-5b4d79b9c6bf")
 	)
 	(wire
 		(pts
@@ -18876,7 +18860,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "d7e5a2d1-324f-4d51-af20-bd8a79c73674")
+		(uuid "2666600c-f6ac-4269-b23a-c1884fc8e925")
 	)
 	(wire
 		(pts
@@ -18886,7 +18870,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "82e94c49-6835-4d08-b167-f1e4de169f64")
+		(uuid "8a03c4eb-bb8d-4bfd-94f9-1ac5750c0b62")
 	)
 	(wire
 		(pts
@@ -18896,7 +18880,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "34b4b892-7340-4caf-9e06-f4db61c93b31")
+		(uuid "a6330a99-af9b-48c1-b377-c39abea57f12")
 	)
 	(wire
 		(pts
@@ -18906,7 +18890,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "f410aa14-fd0e-4177-8cec-1d4dda6cb45c")
+		(uuid "76cf57a3-f124-4642-ab65-9b86bd99ab85")
 	)
 	(wire
 		(pts
@@ -18916,25 +18900,25 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "f6519128-e8e9-4b5c-a963-bd3b8168b1ba")
+		(uuid "f897606b-95e4-4204-9a41-9deb3dc0d8f0")
 	)
 	(junction
 		(at 83.82 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0564ae40-4118-457b-903b-7ab2ee5e469a")
+		(uuid "281efc52-bb3e-45f7-bdee-83f43e63f8f1")
 	)
 	(junction
 		(at 90.17 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "644133c8-c64b-466a-8af0-291ac7d4bcc3")
+		(uuid "b2e784b3-3f9b-4a69-a872-e77371093712")
 	)
 	(junction
 		(at 100.33 168.91)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2844bc25-93a3-4602-a05e-4eb842ede469")
+		(uuid "63df69c9-7cf1-48a2-8d1d-18a8fae413b2")
 	)
 	(wire
 		(pts
@@ -18944,7 +18928,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "38a820ae-8e59-4aec-8e9e-49bda24ebb63")
+		(uuid "6dbfc678-5836-46c6-85d1-ee89969a0395")
 	)
 	(wire
 		(pts
@@ -18954,7 +18938,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "94351bd8-4911-4f46-bab4-0e59fb51628b")
+		(uuid "a59dcc06-7639-428f-8f21-4d36585a3b74")
 	)
 	(wire
 		(pts
@@ -18964,13 +18948,13 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "3a5305cf-6bab-4653-8b80-52b2d6e43982")
+		(uuid "e0bbbef2-3661-4269-98c8-49bf0d66486b")
 	)
 	(junction
 		(at 100.33 182.88)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "51e172bd-7a50-4ac7-bbb6-ec8dbf311ebe")
+		(uuid "27150936-16db-47d5-88eb-a4bf594e19de")
 	)
 	(label "spare2"
 		(at 105.41 182.88 0)
@@ -18980,7 +18964,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "d1ed0714-78d4-49b9-bb55-325fef495a1e")
+		(uuid "fa34e011-0eb9-4489-bf86-671829e70486")
 	)
 	(wire
 		(pts
@@ -18990,7 +18974,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "0974cc63-e1f2-41e0-93d9-216fc5dbbdad")
+		(uuid "df5480ef-8211-4b77-aa98-177003ad1169")
 	)
 	(wire
 		(pts
@@ -19000,7 +18984,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "169b9dbe-9b8b-445c-ac38-d30fd2dd777f")
+		(uuid "4e7bc6a4-8f96-4b15-bcb6-e4d2c2334c2a")
 	)
 	(wire
 		(pts
@@ -19010,13 +18994,13 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "19362d9e-fad4-49f3-a200-f7dbee7ee2a6")
+		(uuid "7e0a7dce-efcb-4840-bda1-f6d8ec5b5fc4")
 	)
 	(junction
 		(at 104.14 185.42)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e6250681-90fa-4685-9365-8f2ee4741b23")
+		(uuid "e4de12ca-dd97-4f82-9b7f-571f35a444ac")
 	)
 	(label "spare0"
 		(at 105.41 185.42 0)
@@ -19026,7 +19010,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "4bda4b17-6111-4448-b624-a0c3fe6cf4a4")
+		(uuid "0c84371d-8f5c-4f16-8dae-87cf45d2a5be")
 	)
 	(wire
 		(pts
@@ -19036,7 +19020,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "34e3c670-42c9-48e3-baf1-077c08db842e")
+		(uuid "400f0949-56d2-436f-b7e5-1a7afc8e6a32")
 	)
 	(wire
 		(pts
@@ -19046,7 +19030,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "9e1160e4-ceb9-45b5-97d1-3c2a571c3318")
+		(uuid "3f44fcc5-a55a-4e09-b118-2c7d49895ca5")
 	)
 	(wire
 		(pts
@@ -19056,7 +19040,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "335de7a3-9075-4e66-a4d1-721436fb5c5b")
+		(uuid "8ddd0aa7-15ed-4eb0-b639-66be346c2bc2")
 	)
 	(wire
 		(pts
@@ -19066,17 +19050,17 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "8d1463c3-9394-47d2-9560-55b58caaa87a")
+		(uuid "57d4d160-ecaf-416e-9d52-8097f0d77e53")
 	)
 	(junction
 		(at 96.52 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3e77e24d-a658-4d86-9234-cf8126bb2625")
+		(uuid "78ab5fee-359f-4f1a-9be2-b781389e3a64")
 	)
 	(no_connect
 		(at 93.98 190.5)
-		(uuid "08268ce2-090e-4715-811d-e678195fd092")
+		(uuid "406254d8-409e-46c9-b9ab-e96f0af990b5")
 	)
 	(wire
 		(pts
@@ -19086,7 +19070,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "8688ae8d-a660-42f6-8b88-a0e05ca8715d")
+		(uuid "70b557b0-43b1-4123-bbb0-02db08e27a31")
 	)
 	(label "+5V_IN"
 		(at 71.12 185.42 180)
@@ -19096,7 +19080,7 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "ca136a44-ea4d-4208-97cf-ddacd85abf41")
+		(uuid "c786fe1d-3058-4e09-824b-418703148bdc")
 	)
 	(wire
 		(pts
@@ -19106,7 +19090,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "92d5df03-0024-4a3d-9c1c-7e5781474af2")
+		(uuid "10851761-b8d0-4362-bbd1-633459d2c8ae")
 	)
 	(wire
 		(pts
@@ -19116,7 +19100,7 @@
 			(width 0)
 			(type default)
 		)
-		(uuid "872dee41-5a5b-4f36-97b7-9a493f28d7f8")
+		(uuid "ef71705f-30f4-4182-a3da-206d7015d457")
 	)
 	(text "Current monitor"
 		(exclude_from_sim no)
@@ -19126,7 +19110,7 @@
 				(size 4 4)
 			)
 		)
-		(uuid "db2f2555-124f-4a56-b860-4b04eb908649")
+		(uuid "2dd59e80-cf3c-475b-828f-54972c089f84")
 	)
 	(text "U3 reads the voltage across R3:\n2.5 uV per count = 2.5 uA per count.\nI2C address 0x40 (A0 = A1 = GND).\nSDA = spare2, SCL = spare0, 4.7k pull-ups."
 		(exclude_from_sim no)
@@ -19137,7 +19121,7 @@
 			)
 			(justify left)
 		)
-		(uuid "a07cf217-2f44-41c2-82ef-936cc7d26021")
+		(uuid "f7c84dd2-bdad-41e3-8b9b-a9b21e97379b")
 	)
 	(label "+5V_IN"
 		(at 36.83 113.03 180)
@@ -19147,7 +19131,7 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "d5c91a8c-f7f3-4877-9b50-26433518739b")
+		(uuid "0e24d455-2a46-4ae5-84d1-88c5c23b878b")
 	)
 	(label "+5V_IN"
 		(at 40.64 139.7 180)
@@ -19157,7 +19141,7 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "25b61edb-a3a0-43ac-a626-af254ec8c996")
+		(uuid "660dc94d-eb3e-4371-88e2-ffae9b31f7d5")
 	)
 	(label "+5V_IN"
 		(at 40.64 142.24 180)
@@ -19167,9 +19151,9 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "af36a82f-8132-4f5f-b689-5bb2078b94a1")
+		(uuid "e6b64f20-61b5-4b25-a46a-5505bb20f08b")
 	)
-	(text "Current sense: 1 mV across R3 = 1 mA\n(read at wire pads TP9 and TP10)"
+	(text "Current sense: 1 mV across R3 = 1 mA\n(read by U3, see Current monitor)"
 		(exclude_from_sim no)
 		(at 36.83 119.38 0)
 		(effects
@@ -19178,7 +19162,7 @@
 			)
 			(justify left)
 		)
-		(uuid "d958867c-e3b7-4505-818c-0c63565ba1b7")
+		(uuid "03c039da-f0bf-48c0-a328-a0ae9acb3d79")
 	)
 	(label "A10"
 		(at 246.38 119.38 0)
@@ -23002,85 +22986,6 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 72.39 88.9 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "37da8524-56c4-41ff-90ce-f854e2876cdb")
-		(property "Reference" "TP10"
-			(at 74.93 84.3279 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "+5V"
-			(at 74.93 86.8679 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "1_My_footprint_lib:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm_Relief_3mm_shorter_version"
-			(at 77.47 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 77.47 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 72.39 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "41d3c741-2049-46b5-9178-cf9b7cdc5522")
-		)
-		(instances
-			(project "SRAM_exp"
-				(path "/59493f99-3e6e-4fa8-bb36-be3f5195ff76"
-					(reference "TP10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
 		(at 40.64 113.03 0)
 		(unit 1)
 		(body_style 1)
@@ -23102,7 +23007,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "+5V_IN"
+		(property "Value" "+5V"
 			(at 43.18 110.9979 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23159,85 +23064,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 53.34 113.03 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bafb9e57-97ca-4154-98a4-b2bc254b140d")
-		(property "Reference" "TP9"
-			(at 55.88 108.4579 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "+5V_IN"
-			(at 55.88 110.9979 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "1_My_footprint_lib:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm_Relief_3mm_shorter_version"
-			(at 58.42 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 58.42 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "test point"
-			(at 53.34 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c1cfb4f9-4e9b-4fe2-9f9a-f36ecc9a9745")
-		)
-		(instances
-			(project "SRAM_exp"
-				(path "/59493f99-3e6e-4fa8-bb36-be3f5195ff76"
-					(reference "TP9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 69.85 113.03 90)
 		(unit 1)
@@ -23248,7 +23074,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "91fcb0b1-8366-47eb-b8a8-b924f70520ca")
+		(uuid "eec4cd40-a2cf-430d-8090-bdf614cbf111")
 		(property "Reference" "R3"
 			(at 69.85 106.68 90)
 			(show_name no)
@@ -23303,10 +23129,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "e4a451f3-8cb9-4699-a014-8db4476590d3")
+			(uuid "0dd21438-d78d-4fbe-83cb-d8c57315aa93")
 		)
 		(pin "1"
-			(uuid "7863c212-3f4d-452a-bfaf-c337daa02cd5")
+			(uuid "7b3cd6f5-8bef-46fc-896a-bf1e578d5208")
 		)
 		(instances
 			(project "SRAM_exp"
@@ -24978,7 +24804,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "cc62eaf8-a17b-482c-9d0c-c6a33051939f")
+		(uuid "a14c6e9d-ad25-4b7b-b127-38a1b0058b8d")
 		(property "Reference" "U3"
 			(at 80.01 171.45 0)
 			(show_name no)
@@ -25034,34 +24860,34 @@
 			)
 		)
 		(pin "1"
-			(uuid "afaf5490-028d-4768-8d9d-ca70d24f04f4")
+			(uuid "fcd01b89-0c15-438e-afe3-cdaaf8287301")
 		)
 		(pin "2"
-			(uuid "f1678690-dbbb-462b-9ff0-cc7c4c751ff5")
+			(uuid "f6d8667d-2319-4660-b541-11db49ada165")
 		)
 		(pin "3"
-			(uuid "2d379410-d163-4f43-b54c-3b5eeeffd174")
+			(uuid "0bd48c6c-2480-4d5a-bbef-7000da8ae7ea")
 		)
 		(pin "4"
-			(uuid "584c516d-ede1-4ebb-a8d0-e7927425bd7c")
+			(uuid "7c9d3dff-ed89-416a-8b16-ac8a108f5da2")
 		)
 		(pin "5"
-			(uuid "c4b66ca1-7f40-4f41-bacf-d6b4cbd21bd7")
+			(uuid "bfb916a3-1667-4c85-92e9-801ee11a9b8d")
 		)
 		(pin "6"
-			(uuid "6775a091-c07b-4853-b840-96b9133da6a9")
+			(uuid "0998d040-883b-4a92-9393-4c1080a0115d")
 		)
 		(pin "7"
-			(uuid "aad9127b-fdfc-44e9-add7-c69ef4bdd0c9")
+			(uuid "dfed5648-644f-4d49-869b-00f98860a883")
 		)
 		(pin "8"
-			(uuid "24f22f86-5619-4ac5-b16e-f5895c5960c4")
+			(uuid "66c9ce77-88bd-47ef-9b29-e10a07bc4f60")
 		)
 		(pin "9"
-			(uuid "cf2b3333-0f36-4674-858b-d4325ebdbc68")
+			(uuid "2ec4333f-8b79-4997-9cfc-75dcaed8c878")
 		)
 		(pin "10"
-			(uuid "f2a1e705-6347-4cf5-8c7d-8d2205ad02c0")
+			(uuid "09e8e670-9397-44df-a08e-b16f48bda691")
 		)
 		(instances
 			(project "SRAM_exp"
@@ -25082,7 +24908,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "00b36e0c-07ff-4767-9d4a-7f36ca96813e")
+		(uuid "ad2144b0-e0ad-4536-b679-9ab60449ae0e")
 		(property "Reference" "C5"
 			(at 59.69 170.18 0)
 			(show_name no)
@@ -25139,10 +24965,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "ca049c9e-36f9-48ce-8df7-9ba9126895e2")
+			(uuid "66d82483-ed87-47a7-b98c-48e8136180c0")
 		)
 		(pin "2"
-			(uuid "2785773a-b721-4777-ad1b-21929bd14f15")
+			(uuid "dfbc3ad9-43ff-4f8c-9f52-bde4fedc65f3")
 		)
 		(instances
 			(project "SRAM_exp"
@@ -25163,7 +24989,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "b9e01d00-2302-484f-ae70-11ee046b0dcc")
+		(uuid "aee3c8d4-4f84-43ac-8e47-4aa1d1b321ff")
 		(property "Reference" "R5"
 			(at 99.06 171.45 0)
 			(show_name no)
@@ -25220,10 +25046,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "347a4c94-97a4-4d9e-9867-67e74e5bc8ca")
+			(uuid "99b5b9fb-794e-47f7-88cf-7f18de70e106")
 		)
 		(pin "2"
-			(uuid "969c8c77-567d-4d35-84c6-6be2bb2f7d08")
+			(uuid "8825be0f-6105-4eb4-9db9-e558af192e30")
 		)
 		(instances
 			(project "SRAM_exp"
@@ -25244,7 +25070,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "4aafafb8-1b02-46b7-bb41-46905366edea")
+		(uuid "8e15d895-c34c-4b70-a03e-e32cc1cf98d6")
 		(property "Reference" "R6"
 			(at 105.41 171.45 0)
 			(show_name no)
@@ -25301,10 +25127,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "6ff4a26d-8438-45ef-ac0e-ac7a180a0ad8")
+			(uuid "682aec3a-97f9-4b99-8487-b816cc0d3111")
 		)
 		(pin "2"
-			(uuid "aed5d85e-6c6d-434d-bf43-9e7ddb276736")
+			(uuid "a99a592e-e792-42e1-a3e0-b158c4d33f4f")
 		)
 		(instances
 			(project "SRAM_exp"
@@ -25325,7 +25151,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "4e3f3de0-2c6d-4e79-a479-7373b44012dc")
+		(uuid "ef54b919-06e4-442f-8cba-399a134409d3")
 		(property "Reference" "#PWR036"
 			(at 90.17 172.72 0)
 			(hide yes)
@@ -25381,7 +25207,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "42030cb9-9c4e-4299-b424-4c52c243c1c5")
+			(uuid "dec14c3d-ce7e-4d6d-8bf2-2eb2cb4a3d0c")
 		)
 		(instances
 			(project "SRAM_exp"
@@ -25402,7 +25228,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "ddb83b9f-6016-4191-a50c-b2295b5a399a")
+		(uuid "dba9d1f6-ba8b-4e1b-adcf-f4d1aeee2d48")
 		(property "Reference" "#PWR037"
 			(at 60.96 177.8 0)
 			(hide yes)
@@ -25459,7 +25285,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "ddbe5064-64bd-4498-8958-3c6f32b73370")
+			(uuid "9fc21f37-78f9-4c26-b887-3552e401e15d")
 		)
 		(instances
 			(project "SRAM_exp"
@@ -25480,7 +25306,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "747f1439-7ec7-43d3-a500-b88a10672b7d")
+		(uuid "469ae1e0-5c7c-48c5-b5f5-9678bff72932")
 		(property "Reference" "#PWR038"
 			(at 83.82 199.39 0)
 			(hide yes)
@@ -25537,7 +25363,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f0250a20-d2dc-4e11-b7be-3a048892bc97")
+			(uuid "354e378f-85ca-432c-8026-2f4c601b0098")
 		)
 		(instances
 			(project "SRAM_exp"
@@ -25558,7 +25384,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "0b4e3535-f6f0-4253-b285-0b865be8a324")
+		(uuid "89d86c29-e234-46ef-9002-1877d6c4d4ed")
 		(property "Reference" "#PWR039"
 			(at 96.52 182.88 0)
 			(hide yes)
@@ -25615,7 +25441,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "43a7088d-5ded-45a1-b5f9-cece5dfee9db")
+			(uuid "b0116080-bd06-45dc-b793-b8b37b42655d")
 		)
 		(instances
 			(project "SRAM_exp"
@@ -25636,7 +25462,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "3f236138-58d7-4c19-8160-c7fcbc8f42f5")
+		(uuid "35d4888c-b6a0-4617-bc0c-5e82cb4b66cd")
 		(property "Reference" "#PWR040"
 			(at 71.12 191.77 0)
 			(hide yes)
@@ -25693,7 +25519,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "676230ee-675f-4fb4-83df-2b3033e9de3c")
+			(uuid "b3469e5c-b592-48cb-a60d-f19c06158476")
 		)
 		(instances
 			(project "SRAM_exp"
@@ -25714,7 +25540,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "4b5248b9-9d56-4e40-aa21-05e36d62a9d2")
+		(uuid "c6daac3f-cf1b-45f0-bd53-d35dd457bec5")
 		(property "Reference" "#PWR041"
 			(at 71.12 179.07 0)
 			(hide yes)
@@ -25771,7 +25597,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "db16d6e2-bedd-46b1-8528-eb5253720c24")
+			(uuid "fa0b6160-a387-4dd5-a88a-884e96975457")
 		)
 		(instances
 			(project "SRAM_exp"
@@ -25792,7 +25618,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "c06d3899-7dc4-41ff-9902-ccb0623b0eaf")
+		(uuid "b3fa6705-6322-4d36-b186-ea90ad530995")
 		(property "Reference" "#PWR050"
 			(at 137.16 196.85 0)
 			(hide yes)
@@ -25848,7 +25674,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "078597d2-d067-4e47-a130-030ac4646c55")
+			(uuid "1298f52d-0c67-4e2b-8ff7-162dd3a29b25")
 		)
 		(instances
 			(project "SRAM_exp"
@@ -25869,7 +25695,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "4a25df10-e782-498d-bf8d-411d93886685")
+		(uuid "ba05e188-08a2-46e9-84b3-f137e0ffaa28")
 		(property "Reference" "#FLG01"
 			(at 142.24 191.135 0)
 			(hide yes)
@@ -25926,7 +25752,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "c06ebede-50cf-4897-a7f2-c1301eef0993")
+			(uuid "dfd787ea-5dd0-48f1-bf8d-56478acbed45")
 		)
 		(instances
 			(project "SRAM_exp"
@@ -25947,7 +25773,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "11333343-1d4e-4466-9849-f97be5340deb")
+		(uuid "86906859-42ec-4ac8-b9f8-d133d08586c4")
 		(property "Reference" "#PWR051"
 			(at 149.86 199.39 0)
 			(hide yes)
@@ -26004,7 +25830,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "ecf07e12-62ad-4acf-bb60-e5e973e83368")
+			(uuid "7565bd6d-6925-4c9f-817e-fed2e69f24d9")
 		)
 		(instances
 			(project "SRAM_exp"
@@ -26025,7 +25851,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "e6818fe2-dcdf-465b-ac6a-9cd66f810689")
+		(uuid "b1112835-6b84-4184-8746-504da7474763")
 		(property "Reference" "#FLG02"
 			(at 154.94 191.135 0)
 			(hide yes)
@@ -26082,7 +25908,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "bbf20ce0-09e5-49a4-a1ed-be665a2867bd")
+			(uuid "5e946c70-00f8-47a3-a0cf-657107237d4f")
 		)
 		(instances
 			(project "SRAM_exp"
